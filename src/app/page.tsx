@@ -1,7 +1,7 @@
 import { connection } from "next/server";
 import { Suspense } from "react";
 import NewsList, { formatDate, ModeBadge } from "@/components/NewsList";
-import { hasApiKey } from "@/lib/refresh";
+import { hasApiKey, isReadOnly } from "@/lib/refresh";
 import { SOURCES } from "@/lib/sources";
 import { readNews } from "@/lib/storage";
 import RefreshButton from "./RefreshButton";
@@ -19,6 +19,7 @@ export default function Home() {
 async function NewsSection() {
   await connection();
   const data = await readNews();
+  const readOnly = isReadOnly();
   const keyPresent = hasApiKey();
 
   return (
@@ -41,16 +42,27 @@ async function NewsSection() {
               <p className="mt-3 text-sm text-muted">아직 가져온 기사가 없습니다.</p>
             )}
           </div>
-          <RefreshButton />
+          {readOnly ? (
+            <p className="text-sm text-muted">매일 오전 7시 자동 갱신</p>
+          ) : (
+            <RefreshButton />
+          )}
         </div>
       </header>
 
-      {!keyPresent && (
-        <p className="mb-8 rounded-2xl border border-line bg-peach px-5 py-4 text-sm leading-6">
-          API 키가 없어 최신 영어 기사 5건을 보여 줍니다. <code className="font-mono text-coral-deep">.env.local</code>에{" "}
-          <code className="font-mono text-coral-deep">ANTHROPIC_API_KEY</code>를 넣으면 AI가 기사를 골라 한국어로 요약합니다.
-        </p>
-      )}
+      {readOnly
+        ? data?.mode === "fallback" && (
+            <p className="mb-8 rounded-2xl border border-line bg-peach px-5 py-4 text-sm leading-6">
+              GitHub 저장소 Secrets에 <code className="font-mono text-coral-deep">ANTHROPIC_API_KEY</code>가 없어
+              최신 영어 기사 5건을 보여 줍니다.
+            </p>
+          )
+        : !keyPresent && (
+            <p className="mb-8 rounded-2xl border border-line bg-peach px-5 py-4 text-sm leading-6">
+              API 키가 없어 최신 영어 기사 5건을 보여 줍니다. <code className="font-mono text-coral-deep">.env.local</code>에{" "}
+              <code className="font-mono text-coral-deep">ANTHROPIC_API_KEY</code>를 넣으면 AI가 기사를 골라 한국어로 요약합니다.
+            </p>
+          )}
 
       {data?.failedSources && (
         <p className="mb-8 rounded-2xl border border-line bg-peach px-5 py-4 text-sm leading-6 text-coral-deep">
@@ -62,7 +74,13 @@ async function NewsSection() {
         <NewsList data={data} />
       ) : (
         <p className="rounded-2xl border border-dashed border-line px-4 py-16 text-center text-muted">
-          오른쪽 위 <strong className="text-coral-deep">새로 가져오기</strong>를 눌러 주세요.
+          {readOnly ? (
+            "첫 자동 갱신을 기다리는 중입니다."
+          ) : (
+            <>
+              오른쪽 위 <strong className="text-coral-deep">새로 가져오기</strong>를 눌러 주세요.
+            </>
+          )}
         </p>
       )}
     </>

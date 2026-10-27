@@ -1,0 +1,48 @@
+# 매일 기사를 새로 골라 data/에 커밋한다. 커밋이 올라가면 Vercel이 자동으로 다시 배포한다.
+name: Daily news refresh
+
+on:
+  schedule:
+    # 매일 한국 시간 오전 7시 (UTC 22:00). GitHub 사정으로 몇 분~수십 분 늦을 수 있다.
+    - cron: "0 22 * * *"
+  # Actions 탭에서 "Run workflow"로 바로 실행할 수도 있다
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Pick today's articles
+        run: npm run refresh
+        env:
+          # 저장소 Settings → Secrets and variables → Actions 에 넣은 키. 없으면 영어 최신 5건으로 저장한다.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit data
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): daily refresh $(TZ=Asia/Seoul date +%F)"
+          git push

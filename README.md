@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Global AI News
 
-## Getting Started
+WIRED와 The Verge AI RSS에서 최신 기사를 모아, Claude(`claude-haiku-5-5`)가 대학생이 관심 가질 만한 AI 기사 5건을 골라 한국어 제목·요약·선정 이유를 보여 주는 Next.js 앱입니다. 자세한 요구 사항은 [PRD.md](PRD.md)에 있습니다.
 
-First, run the development server:
+## 내 PC에서 실행
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+http://127.0.0.1:3000 을 엽니다. `.env.local`에 `ANTHROPIC_API_KEY`를 넣으면 AI 선정 모드로, 없으면 영어 최신 5건으로 동작합니다(형식은 `.env.example`).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+화면 없이 갱신만 한 번 실행하려면 다음을 실행합니다.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run refresh
+```
 
-## Learn More
+## 매일 자동 갱신과 배포
 
-To learn more about Next.js, take a look at the following resources:
+- **GitHub Actions** (`.github/workflows/refresh.yml`): 매일 한국 시간 오전 7시에 기사를 새로 골라 `data/`에 커밋합니다. 저장소 **Settings → Secrets and variables → Actions**에 `ANTHROPIC_API_KEY`를 넣어 두어야 합니다.
+- **Vercel**: GitHub 저장소를 연결하면 `main`에 커밋이 올라올 때마다 자동으로 배포합니다. 서버 화면은 읽기 전용이라 새로 가져오기 버튼이 없습니다.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Actions가 `data/`를 매일 커밋하므로, 내 PC에서 작업을 시작하기 전에 `git pull`로 최신 데이터를 받아 주세요.

@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-10-27T14:34:52.080Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "descriptionEn": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure,…",
+      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "publishedAt": "2026-10-27T13:50:51.000Z",
+      "categories": [
+        "AI",
+        "Apple",
+        "Apps",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg",
+      "rank": 1,
+      "titleKo": "애플, 키노트·페이지스·넘버스에 AI 어시스턴트 추가",
+      "summaryKo": "애플이 키노트, 페이지스, 넘버스 등 생산성 앱 전반에 AI 어시스턴트를 도입한다. 이 어시스턴트는 애플과 OpenAI의 AI 모델을 기반으로 하며, 문서의 맥락을 이해해 키노트에서 슬라이드를 디자인하고 애니메이션을 넣고 다듬을 수 있다. 페이지스에서는 초안 작성과 문서 구조 재구성을 돕는다고 소개됐다.",
+      "reasonKo": "과제 보고서와 발표 자료를 만드는 대학생이 일상에서 쓰는 문서 앱에 AI가 들어오는 변화를 보여준다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "descriptionEn": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "publishedAt": "2026-10-27T09:30:00.000Z",
+      "categories": [
+        "Gear",
+        "Gear / Gear News and Events"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/master/pass/gear-ai-agent-best.jpg",
+      "rank": 2,
+      "titleKo": "주요 AI 에이전트 여섯 종을 하루 동안 직접 테스트해 보니",
+      "summaryKo": "기사는 Meta의 Muse, Anthropic의 Claude Duet 등 여섯 가지 AI 에이전트를 기본적인 작업을 얼마나 잘 완수하는지에 따라 순위를 매겼다. 여러 에이전트를 같은 기준으로 비교한 실험 기사다.",
+      "reasonKo": "대학생이 과제나 일정 관리에 AI 에이전트를 써볼 때 어떤 도구를 고를지 판단하는 데 참고가 된다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+      "descriptionEn": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "publishedAt": "2026-10-27T13:29:41.000Z",
+      "categories": [
+        "The Big Story",
+        "Politics",
+        "Security"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6ae0a01a6cfc0bdcb738ab7a/master/pass/Big-Interview-UV-Solo-Illo-1027.jpg",
+      "rank": 3,
+      "titleKo": "딥페이크 피해를 입은 영국 국회의원, xAI를 법정에 세우다",
+      "summaryKo": "영국 하원의원 Jess Asato는 온라인 학대 피해자를 위해 캠페인을 벌여 왔으나, Grok의 딥페이크 스캔들의 표적이 됐다. 이후 그녀는 피해 당사자가 되었고 xAI를 상대로 소송에 나섰다.",
+      "reasonKo": "생성형 AI가 만든 딥페이크의 피해와 책임 문제는 AI 윤리와 개인 권리를 배우는 대학생에게 실질적인 사례가 된다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Microsoft offers buyouts to 60,000 employees",
+      "descriptionEn": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another…",
+      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "publishedAt": "2026-10-26T15:58:27.000Z",
+      "categories": [
+        "AI",
+        "Labor",
+        "Microsoft",
+        "News",
+        "Tech",
+        "Windows"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg",
+      "rank": 4,
+      "titleKo": "마이크로소프트, 최대 6만 명 직원에게 자발적 퇴직 제안",
+      "summaryKo": "마이크로소프트가 미국, 영국, 캐나다, 인도의 직원 최대 6만 명에게 자발적 퇴직(buyout)을 제안했다. 회사는 이를 통해 직원들이 재정 지원과 경력 설계 자원을 받으며 떠날 기회를 준다고 밝혔다.",
+      "reasonKo": "대형 기술 기업의 인력 감축이 어떻게 이뤄지는지 보여주며, 취업을 준비하는 대학생이 기술 업계의 고용 환경을 이해하는 데 도움이 된다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Can AI help solve the COBOL code crisis?",
+      "descriptionEn": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models'…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "publishedAt": "2026-10-26T13:15:00.000Z",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "OpenAI",
+        "Report",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg",
+      "rank": 5,
+      "titleKo": "AI가 COBOL 코드 위기를 해결할 수 있을까",
+      "summaryKo": "국세청, 은행, 항공사, 여러 나라의 정부 인프라는 오래된 COBOL 코드로 돌아가고 있으며 아무도 쉽게 건드리지 못한다. OpenAI는 10월 19일 최신 AI 모델의 개선을 발표하며 이 문제의 해결책이 될 수 있다고 내세웠다.",
+      "reasonKo": "레거시 시스템 현대화는 컴퓨터공학 전공자와 신입 개발자에게 앞으로 필요한 기술 수요가 어디에 있는지 보여준다."
+    }
+  ]
+}

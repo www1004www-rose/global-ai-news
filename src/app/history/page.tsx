@@ -50,7 +50,7 @@ async function HistorySection({ searchParams }: Pick<PageProps<"/history">, "sea
 
       {dates.length === 0 ? (
         <p className="rounded-2xl border border-dashed border-line px-4 py-16 text-center text-muted">
-          아직 저장된 기록이 없습니다. 홈에서 <strong className="text-coral-deep">새로 가져오기</strong>를 눌러 주세요.
+          아직 저장된 기록이 없습니다.
         </p>
       ) : (
         <>

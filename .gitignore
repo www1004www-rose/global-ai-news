@@ -40,7 +40,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# app data
-/data/
+# app data: news.json과 백업은 커밋한다 (GitHub Actions가 매일 갱신)
+/data/**/*.tmp
 
 !.env.example

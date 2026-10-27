@@ -8,6 +8,12 @@ export function hasApiKey(): boolean {
   return Boolean(process.env.ANTHROPIC_API_KEY?.trim());
 }
 
+// 서버(Vercel)에서는 읽기 전용: 갱신은 GitHub Actions만 한다.
+// 아무나 버튼을 눌러 API 요금을 쓰지 못하게 하고, 서버 파일은 배포마다 사라지기 때문이다.
+export function isReadOnly(): boolean {
+  return process.env.VERCEL === "1" || process.env.READ_ONLY === "1";
+}
+
 let running: Promise<NewsData> | null = null;
 
 // 수집 → 필터 → 선정 → 저장. 동시에 여러 번 눌러도 한 번만 실행한다.
