@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:34:24.015Z",
+  "generatedAt": "2026-10-28T00:51:18.259Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
@@ -18,9 +18,27 @@
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg",
       "rank": 1,
-      "titleKo": "애플, Pages·Keynote·Numbers에 AI 챗봇 추가",
-      "summaryKo": "애플이 Keynote, Pages, Numbers를 포함한 생산성 앱 제품군에 AI 어시스턴트를 도입합니다. 이 어시스턴트는 애플과 OpenAI의 AI 모델을 기반으로 하며, 문서의 맥락을 이해해 작업을 수행합니다. Keynote에서는 슬라이드 디자인, 애니메이션 적용, 다듬기를 돕고, Pages에서는 초안 작성과 구조 재정리를 지원한다고 소개됩니다.",
-      "reasonKo": "과제 발표 자료나 보고서를 작성할 때 실제로 쓰는 앱에 AI가 들어온다는 점에서 대학생에게 가까운 소식입니다."
+      "titleKo": "애플, Pages·Keynote·Numbers에 AI 어시스턴트 추가",
+      "summaryKo": "애플이 Keynote, Pages, Numbers 등 생산성 앱에 AI 어시스턴트를 넣는다고 발표했습니다. 이 어시스턴트는 애플과 OpenAI의 AI 모델을 기반으로 하며, 문서의 맥락을 이해해 작업을 돕습니다. Keynote에서는 슬라이드 디자인, 애니메이션, 다듬기를 수행하고, Pages에서는 초안 작성과 구조 재정리를 돕습니다.",
+      "reasonKo": "과제 발표 자료나 보고서를 작성할 때 바로 쓸 수 있는 AI 기능이라 대학생에게 실용적인 변화입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "descriptionEn": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "publishedAt": "2026-10-27T16:14:18.000Z",
+      "categories": [
+        "AI",
+        "News",
+        "Tech",
+        "Web"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png",
+      "rank": 2,
+      "titleKo": "파이어폭스 스마트 윈도우, AI 양식 자동 입력 기능 추가",
+      "summaryKo": "모질라가 AI 기반 브라우징 기능인 파이어폭스 스마트 윈도우를 업데이트해, 열어 둔 탭을 바탕으로 온라인 양식을 채워 주는 기능을 추가했습니다. 예를 들어 온라인 포트폴리오나 링크드인 페이지의 정보를 가져와 취업 지원서의 경력란에 채워 넣을 수 있습니다.",
+      "reasonKo": "취업 준비 중인 대학생이 지원서를 작성할 때 반복되는 입력 작업을 줄이는 방법으로 직접 관련이 있습니다."
     },
     {
       "source": "WIRED",
@@ -33,10 +51,10 @@
         "Gear / Gear News and Events"
       ],
       "imageUrl": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/master/pass/gear-ai-agent-best.jpg",
-      "rank": 2,
-      "titleKo": "AI 에이전트 여섯 종을 하루 동안 직접 써보니",
-      "summaryKo": "기자가 메타의 Muse, 앤트로픽의 Claude Duet 등 여섯 가지 AI 에이전트를 기본 작업 수행 능력 기준으로 순위를 매겼습니다. 하루 동안 직접 테스트한 결과를 바탕으로 가장 나은 에이전트를 소개합니다.",
-      "reasonKo": "AI 에이전트가 실제로 어느 정도 일을 해내는지 비교해 볼 수 있어, 학습이나 일상에서 어떤 도구를 고를지 생각하는 데 도움이 됩니다."
+      "rank": 3,
+      "titleKo": "주요 AI 에이전트 6종을 하루 동안 직접 써 보니",
+      "summaryKo": "기사는 주요 AI 에이전트 여섯 가지를 기본 작업 수행 능력 기준으로 평가했습니다. 평가 대상에는 Meta의 Muse와 Anthropic의 Claude Duet이 포함되며, 가장 잘한 에이전트를 골랐습니다.",
+      "reasonKo": "요즘 학생들이 과제나 일상 업무에 활용하기 시작한 AI 에이전트를 비교해 볼 수 있어 실용적인 참고가 됩니다."
     },
     {
       "source": "WIRED",
@@ -50,10 +68,10 @@
         "Security"
       ],
       "imageUrl": "https://media.wired.com/photos/6ae0a01a6cfc0bdcb738ab7a/master/pass/Big-Interview-UV-Solo-Illo-1027.jpg",
-      "rank": 3,
-      "titleKo": "딥페이크 피해를 입은 영국 의원, xAI를 상대로 소송",
-      "summaryKo": "영국 국회의원 제스 아사토는 온라인 학대 피해자를 위해 캠페인을 벌여 왔고, 그 과정에서 Grok의 딥페이크 스캔들의 표적이 되었습니다. 이후 본인이 직접 피해자가 되었고, 이제 xAI를 법정에 세우려 하고 있습니다.",
-      "reasonKo": "생성형 AI로 만든 딥페이크의 피해와 AI 기업의 책임을 다루는 사례로, AI 윤리와 개인 권리에 대해 생각해 볼 좋은 주제입니다."
+      "rank": 4,
+      "titleKo": "딥페이크 피해를 입은 영국 국회의원, xAI를 상대로 소송",
+      "summaryKo": "온라인 괴롭힘 피해자를 위해 활동해 온 영국 국회의원 제스 아사토는 그록(Grok)의 딥페이크 스캔들의 표적이 되었습니다. 이후 그녀 자신도 같은 피해자가 되었고, 현재 xAI를 상대로 소송을 진행하고 있습니다.",
+      "reasonKo": "생성형 AI가 만든 딥페이크의 피해와 AI 기업의 책임 문제를 보여주어, AI 윤리와 개인정보 문제를 고민하는 대학생에게 의미가 있습니다."
     },
     {
       "source": "The Verge",
@@ -68,26 +86,10 @@
         "Science"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg",
-      "rank": 4,
-      "titleKo": "OpenAI, 수학·컴퓨터과학·물리학에서 세 가지 주요 발견 발표",
-      "summaryKo": "OpenAI가 수백 편의 원고를 대량 공개한 지 한 달도 안 되어 수학, 컴퓨터과학, 물리학 분야의 주요 발견 세 가지를 새로 발표했습니다. 이번에는 OpenAI가 '셰퍼드'라고 부르는 외부 전문가들이 결과를 이끄는 방식을 택했다는 점이 다릅니다.",
-      "reasonKo": "AI가 연구 현장에서 학자들과 어떻게 협업하는지 보여줘, 연구와 학계에 관심 있는 대학생에게 의미가 있습니다."
-    },
-    {
-      "source": "WIRED",
-      "titleEn": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-      "descriptionEn": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-      "publishedAt": "2026-10-27T15:10:26.000Z",
-      "categories": [
-        "Politics",
-        "Politics / Policy"
-      ],
-      "imageUrl": "https://media.wired.com/photos/6ada70c6eb086323489423af/master/pass/GettyImages-2275955534.jpg",
       "rank": 5,
-      "titleKo": "영국 내무부의 OpenAI 도구 사용, 조사 대상 될 수도",
-      "summaryKo": "영국의 한 정부 감시기관이 내무부가 난민 신청을 처리하는 데 ChatGPT 기술을 사용한 것에 대해 조사를 검토하고 있습니다. 도구의 정확성에 대한 우려와 사용 방식을 둘러싼 비밀주의가 문제로 지적되고 있습니다.",
-      "reasonKo": "공공 영역에서 AI를 사용할 때 정확성과 투명성이 얼마나 중요한지 보여주며, AI 정책과 거버넌스에 관심 있는 학생에게 의미 있습니다."
+      "titleKo": "OpenAI, 수학·컴퓨터과학·물리학 분야에서 과학적 발견 3건 발표",
+      "summaryKo": "OpenAI가 수학, 컴퓨터과학, 물리학 분야에서 '주요' 발견 세 가지를 새로 발표했습니다. 한 달도 안 되어 수백 편의 원고를 공개한 뒤 나온 발표입니다. 이번에는 OpenAI가 '셰퍼드(shepherds)'라고 부르는 외부 전문가들이 결과를 이끄는 방식을 택했다는 점이 다릅니다.",
+      "reasonKo": "AI가 연구 현장에서 어떻게 쓰이고 학계와 어떻게 협력하는지 보여주어, 연구나 진로를 고민하는 대학생이 참고할 만합니다."
     }
   ]
 }
