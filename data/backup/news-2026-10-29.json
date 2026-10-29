@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-10-29T01:26:30.593Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "descriptionEn": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "publishedAt": "2026-10-28T23:05:39.000Z",
+      "categories": [
+        "AI",
+        "Instagram",
+        "Meta",
+        "News",
+        "Social Media",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg",
+      "rank": 1,
+      "titleKo": "인스타그램 수장 “AI에 대한 부정적 여론, 더 나빠질 것”",
+      "summaryKo": "인스타그램 책임자 애덤 모세리는 대학생들이 졸업식에서 테크 CEO에게 야유를 보내는 현상에 대한 질문에 답하며, 많은 사람이 AI를 정말 싫어하며 이는 젊은이나 크리에이티브 업계에만 국한되지 않는다고 인정했습니다. 그는 Colin and Samir 팟캐스트에 출연해 이런 이야기를 나눴습니다.",
+      "reasonKo": "AI에 대한 사회적 반감이 커지고 있다는 점은 졸업을 앞둔 대학생과 앞으로 AI 관련 직업을 준비하는 학생들에게 직접 와닿는 주제입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "descriptionEn": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving…",
+      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "categories": [
+        "AI",
+        "Chrome",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg",
+      "rank": 2,
+      "titleKo": "크롬 자동 완성, 지메일 정보까지 가져와 양식 채운다",
+      "summaryKo": "크롬의 향상된 자동 완성 기능이 Gemini와 Personal Intelligence를 활용해 지메일에서 가져온 정보를 제안하도록 확대됩니다. 기존에는 구글 계정과 구글 월렛 등에서 이름, 여권 번호, 이메일, 주소 등을 가져왔습니다. 이 기능은 오늘부터 적용됩니다.",
+      "reasonKo": "학생들이 일상에서 자주 쓰는 웹 서비스에 AI가 개인 정보를 활용하는 방식이라, 편리함과 개인정보 보호를 함께 생각해볼 좋은 사례입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Meta says it’ll probably delay its controversial new business terms again",
+      "descriptionEn": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\"…",
+      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "publishedAt": "2026-10-28T16:15:30.000Z",
+      "categories": [
+        "AI",
+        "Meta",
+        "News",
+        "Policy",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg",
+      "rank": 3,
+      "titleKo": "메타, 논란의 새 비즈니스 약관 시행을 또 미룰 듯",
+      "summaryKo": "메타는 AI 학습과 관련된 우려로 퍼블리셔들의 반발이 이어지자 새 비즈니스 약관 시행을 11월 20일 이후로 더 미룰 수 있다고 밝혔습니다. 메타 커뮤니케이션 책임자 앤디 스톤은 업계 단체 및 리더들과 충분히 협의하기 전에는 정책을 바꾸지 않겠다고 말했습니다.",
+      "reasonKo": "AI 학습에 콘텐츠가 어떻게 쓰이는지는 저작권과 창작물 보호에 관심 있는 대학생에게 중요한 문제입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "descriptionEn": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over…",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "publishedAt": "2026-10-28T20:03:00.000Z",
+      "categories": [
+        "AI",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg",
+      "rank": 4,
+      "titleKo": "구글, 사이버보안 역량을 강화한 최신 모델 ‘Gemini 4 Carbon’ 출시",
+      "summaryKo": "구글은 코딩, 에이전트 작업, 사이버보안 분야에서 크게 향상되었다고 밝힌 최신 프런티어 모델 Gemini 4 Carbon을 출시했습니다. 발표에 따르면 이 모델은 Artificial Analysis Intelligence Index(v5.0) 벤치마크에서 1위를 차지했으며, Claude Opus 5.5와 GPT-6 Astra가 그 뒤를 이었습니다.",
+      "reasonKo": "주요 AI 모델들이 코딩과 에이전트 능력에서 경쟁하는 흐름은 컴퓨터공학 전공 학생이나 AI 도구를 활용하는 학생들이 참고할 만한 소식입니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "descriptionEn": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "publishedAt": "2026-10-28T06:00:00.000Z",
+      "categories": [
+        "Business",
+        "Business / Artificial Intelligence"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif",
+      "rank": 5,
+      "titleKo": "AI가 재판을 맡아야 할까? 영국 고위 판사의 대답은 “그렇다”",
+      "summaryKo": "영국의 최고위 판사 중 한 명인 제프리 보스는 AI가 많은 민사 사건을 심리하고 판결할 수 있다고 봅니다. 그는 문제는 AI가 맡을 일의 경계를 어디에 그어야 하는지라고 말합니다.",
+      "reasonKo": "법과 기술이 만나는 지점에서 AI의 역할과 한계를 고민해볼 수 있어, 법학이나 사회과학을 공부하는 대학생에게 의미 있는 기사입니다."
+    }
+  ]
+}
