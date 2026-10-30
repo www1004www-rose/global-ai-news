@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-10-30T01:28:26.931Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "descriptionEn": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "publishedAt": "2026-10-29T18:45:31.000Z",
+      "categories": [
+        "AI",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg",
+      "rank": 1,
+      "titleKo": "이제 Gemini 대화창에서 구글 문서 파일을 바로 만들고 편집할 수 있습니다",
+      "summaryKo": "구글 Gemini에서 PDF, 구글 문서, 구글 시트, 슬라이드, 마크다운, TXT 파일과 코드를 대화창 안에서 생성하고 미리 볼 수 있게 되었습니다. 새 파일 편집 기능은 모든 Gemini 사용자에게 제공되며, PDF 미리보기와 편집은 웹과 모바일에서 모두 지원됩니다. 다른 형식은 소개문 기준으로 일부 환경에서만 제공됩니다.",
+      "reasonKo": "과제 자료나 발표 자료를 AI와 함께 만들고 고치는 일이 많은 대학생에게 바로 쓸 수 있는 실용적인 변화입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Microsoft’s AI future has fewer jobs",
+      "descriptionEn": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and…",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "categories": [
+        "AI",
+        "Gaming",
+        "Microsoft",
+        "Notepad",
+        "Tech",
+        "Xbox"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg",
+      "rank": 2,
+      "titleKo": "마이크로소프트의 AI 시대, 일자리는 줄어든다",
+      "summaryKo": "마이크로소프트가 미국, 영국, 캐나다 등지의 직원 약 6만 명에게 자발적 퇴직(buyout) 제안을 하고 있습니다. 기사에 따르면 사티아 나델라 CEO의 최근 발언을 보면 AI가 회사의 인력 규모를 근본적으로 바꿀 것이라는 신호로 읽힙니다.",
+      "reasonKo": "AI가 기업의 채용과 인력 구조를 어떻게 바꾸는지 보여주어, 졸업 후 진로를 고민하는 대학생에게 중요한 참고가 됩니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "descriptionEn": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "publishedAt": "2026-10-28T23:05:39.000Z",
+      "categories": [
+        "AI",
+        "Instagram",
+        "Meta",
+        "News",
+        "Social Media",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg",
+      "rank": 3,
+      "titleKo": "아담 모세리 “AI에 대한 부정적 여론, 더 나빠질 것”",
+      "summaryKo": "인스타그램 책임자 아담 모세리는 한 인터뷰에서 대학 졸업식에서 학생들이 테크 CEO에게 야유를 보내는 흐름을 언급하며 AI를 싫어하는 사람이 많다고 인정했습니다. 그는 이런 부정적 분위기가 더 심해질 것이라고 말했으며, 이는 젊은 층만의 문제가 아니라고 밝혔습니다.",
+      "reasonKo": "졸업을 앞둔 대학생들이 실제로 AI를 어떻게 바라보는지와 AI 사회적 논쟁을 이해하는 데 도움이 되는 기사입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "The NYT Cooking app is testing AI recipe modifications",
+      "descriptionEn": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "publishedAt": "2026-10-29T14:39:37.000Z",
+      "categories": [
+        "AI",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg",
+      "rank": 4,
+      "titleKo": "NYT 쿠킹 앱, AI 레시피 수정 기능 시험 중",
+      "summaryKo": "뉴욕타임스가 쿠킹 앱에 사용자가 레시피를 바꿀 수 있도록 돕는 AI 기능을 시험하고 있습니다. 이 기능은 재료와 조리 도구의 대체품을 추천하고 레시피 분량을 원하는 대로 조정하는 데 쓰입니다. 기능 공개 후 사용자들 사이에서 논란도 일었다고 소개되었습니다.",
+      "reasonKo": "자취나 요리를 시작한 대학생이 일상에서 접하는 AI 서비스가 어떤 식으로 쓰이는지 보여주는 예시입니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "descriptionEn": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "publishedAt": "2026-10-29T15:00:00.000Z",
+      "categories": [
+        "Business",
+        "Business / Artificial Intelligence",
+        "Business / Startups"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif",
+      "rank": 5,
+      "titleKo": "바이브 코딩의 골칫거리를 해결할 수학, 형식 검증 자동화 경쟁",
+      "summaryKo": "새 스타트업 &Truth가 수학을 이용해 소프트웨어가 의도대로 작동함을 증명하는 형식 검증(formal verification)을 자동화하는 경쟁에 뛰어들었습니다. 형식 검증은 공들여 해야 하는 복잡한 과정으로 소개되었습니다. 기사 제목은 이것이 바이브 코딩 자체의 문제를 해결할 수 있다고 전합니다.",
+      "reasonKo": "AI로 코드를 쉽게 만드는 시대에 코드의 신뢰성이 왜 중요한지 보여주어, 컴퓨터공학 전공 학생이나 개발 진로를 고민하는 학생에게 의미 있습니다."
+    }
+  ]
+}
