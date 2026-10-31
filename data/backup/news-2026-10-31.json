@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2026-10-31T01:18:42.167Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "descriptionEn": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring…",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "publishedAt": "2026-10-30T22:32:53.000Z",
+      "categories": [
+        "AI",
+        "Apple",
+        "iOS",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg",
+      "rank": 1,
+      "titleKo": "Apple Intelligence, iOS 27.3로 드디어 중국에 출시",
+      "summaryKo": "Apple은 중국 뉴스룸을 통해 iOS 27.3으로 중국에서 Apple Intelligence를 출시한다고 발표했습니다. 해당 기능은 11월 4일 출시 예정인 iOS 27.3 베타에서 먼저 제공되며, 정식 버전은 12월에 나올 예정입니다. 아이폰을 일상적으로 쓰는 학생이라면 AI 기능이 어떻게 지역별로 확대되는지 살펴볼 만한 소식입니다.",
+      "reasonKo": "많은 대학생이 쓰는 스마트폰의 AI 기능이 어떤 시기에 어떤 지역으로 퍼지는지 보여주는 일상 밀착형 기사입니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "descriptionEn": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+      "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "publishedAt": "2026-10-30T20:38:46.000Z",
+      "categories": [
+        "Security",
+        "Security / Cyberattacks and Hacks"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg",
+      "rank": 2,
+      "titleKo": "악성 Claude 확장 프로그램이 수천 대의 기기에 퍼진 공급망 공격",
+      "summaryKo": "공격자가 Claude 확장 프로그램에 심은 악성 코드가 있었지만, 그 안의 결함 덕분에 약 5,000대의 개발자 기기로 완전히 퍼지지는 못했습니다. 기사는 이 사건이 우연한 행운에 가까웠다는 점을 전합니다. AI 도구를 설치해 쓰는 사용자의 보안 위험을 보여줍니다.",
+      "reasonKo": "과제나 코딩 실습에 AI 확장 프로그램을 설치하는 대학생에게 도구 선택과 보안의 중요성을 일깨워 줍니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "descriptionEn": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger…",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "categories": [
+        "AI",
+        "Copyright",
+        "Law",
+        "Microsoft",
+        "OpenAI",
+        "Policy",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg",
+      "rank": 3,
+      "titleKo": "위키백과 운영사 \"AI 저작권 판결이 열린 웹을 위협할 수 있다\"",
+      "summaryKo": "위키미디어 재단은 여러 AI 저작권 소송에서 중간 입장을 취하고 있습니다. 대규모 언어 모델이 저작물로 학습하는 것은 법적으로 보호받아야 하지만, 챗봇이 저작물을 그대로 사용자에게 재현하는 것은 다르다고 주장합니다. 지나치게 흑백으로 나뉜 판결은 위키피디안들이 쓸 유용한 AI 도구를 빼앗거나 열린 웹을 위협할 수 있다고 경고합니다.",
+      "reasonKo": "AI 학습 데이터와 저작권 문제는 글을 쓰고 자료를 찾는 대학생에게 직접 관련된 쟁점입니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "descriptionEn": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "publishedAt": "2026-10-29T15:00:00.000Z",
+      "categories": [
+        "Business",
+        "Business / Artificial Intelligence",
+        "Business / Startups"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif",
+      "rank": 4,
+      "titleKo": "바이브 코딩을 구하는 '골치 아픈' 수학, 형식 검증 자동화에 도전하는 스타트업",
+      "summaryKo": "&Truth라는 새 스타트업이 소프트웨어가 의도대로 동작함을 수학으로 증명하는 형식 검증 과정을 자동화하는 경쟁에 뛰어들었습니다. 형식 검증은 복잡하고 공이 많이 드는 작업으로 소개됩니다. 기사는 이것이 AI로 코드를 빠르게 만드는 바이브 코딩의 한계를 보완할 수 있다는 맥락을 다룹니다.",
+      "reasonKo": "AI로 코드를 작성하는 흐름이 개발 직무와 진로에 어떤 변화를 줄지 생각해 볼 수 있는 기사입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "descriptionEn": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "publishedAt": "2026-10-30T14:58:06.000Z",
+      "categories": [
+        "AI",
+        "News",
+        "Policy"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg",
+      "rank": 5,
+      "titleKo": "교황 레오 14세 \"AI를 무장 해제해야 한다\"… \"기계는 도구이지 인격체가 아니다\"",
+      "summaryKo": "교황 레오 14세는 AI 시스템을 무장 해제해야 하며, 인간에게는 AI 응용을 안내하고 바꾸고, 필요하면 거부할 책임이 있다고 말했습니다. 그는 다음 달 제네바 회의에서 유엔 회원국들이 치명적 자율무기 금지를 위한 구체적 조치를 취하도록 촉구했습니다. 기사는 AI 윤리에 대한 종교계의 입장을 전합니다.",
+      "reasonKo": "AI 기술의 윤리적 책임과 군사적 활용을 둘러싼 사회적 논쟁을 이해하는 데 도움이 되는 기사입니다."
+    }
+  ]
+}
