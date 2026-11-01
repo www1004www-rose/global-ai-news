@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2026-11-01T00:35:59.585Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "The biggest names in AI are backing a new way to opt out of scraping",
+      "descriptionEn": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal…",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "publishedAt": "2026-10-30T20:26:10.000Z",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg",
+      "rank": 1,
+      "titleKo": "OpenAI·Google·Microsoft·Anthropic, AI 스크래핑 거부를 위한 공통 표준 도입",
+      "summaryKo": "OpenAI, Google, Microsoft, Anthropic이 언론사가 AI의 스크래핑을 거부할 수 있는 새 표준을 도입하겠다고 밝혔습니다. 이 표준을 쓰면 AI 학습 설정을 기업마다 따로 지정하지 않고 여러 AI 회사에 한꺼번에 적용할 수 있습니다. 공유되는 '정책 토큰' 신호가 핵심입니다.",
+      "reasonKo": "AI 학습에 쓰이는 데이터의 저작권과 수집 기준을 둘러싼 논의를 이해하는 데 좋은 사례입니다. 글을 쓰고 콘텐츠를 만드는 대학생에게도 관련이 있습니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "descriptionEn": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+      "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "publishedAt": "2026-10-30T20:38:46.000Z",
+      "categories": [
+        "Security",
+        "Security / Cyberattacks and Hacks"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg",
+      "rank": 2,
+      "titleKo": "악성 Claude 확장 프로그램이 수천 대 기기에 퍼진 공급망 공격",
+      "summaryKo": "오염된 Claude 확장 프로그램의 결함 있는 코드 덕분에 공격자가 약 5,000대의 개발자 기기를 완전히 장악하지 못했습니다. 기사는 이 사건을 행운에 가까운 우연으로 소개합니다. 악성 코드가 AI 도구를 통해 전파될 수 있다는 점을 보여줍니다.",
+      "reasonKo": "AI 도구를 설치하고 쓰는 학생이라면 확장 프로그램이 얼마나 위험할 수 있는지 생각해 볼 수 있습니다. 개발 공부를 하는 대학생에게도 보안 점검의 중요성을 알려 줍니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "descriptionEn": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "publishedAt": "2026-10-30T14:58:06.000Z",
+      "categories": [
+        "AI",
+        "News",
+        "Policy"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg",
+      "rank": 3,
+      "titleKo": "교황 레오 14세 'AI를 무장 해제해야 한다'… '기계는 도구이지 인격체가 아니다'",
+      "summaryKo": "교황 레오 14세는 AI 시스템을 '무장 해제'해야 한다고 말하며, 인간에게 AI 응용을 안내하고 바꾸고 필요할 때는 거부할 책임이 있다고 밝혔습니다. 그는 제네바에서 열리는 유엔 회의에서 치명적 자율무기 금지를 위한 구체적 조치를 취하라고 촉구했습니다. 기사는 AI의 역할에 대한 윤리적 질문을 던집니다.",
+      "reasonKo": "AI가 사회에 미치는 영향과 윤리 문제를 생각해 보기에 좋은 기사입니다. 인문·사회 과목을 듣는 대학생이 토론 주제로 삼기에도 적합합니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "descriptionEn": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net,…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "publishedAt": "2026-10-30T13:01:14.000Z",
+      "categories": [
+        "AI",
+        "News",
+        "OpenAI",
+        "Science"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg",
+      "rank": 4,
+      "titleKo": "샘 올트먼, 수학자들에게 공감하지만 OpenAI의 수학 공세는 멈추지 않는다",
+      "summaryKo": "수개월 동안 OpenAI가 AI가 생성한 결과를 쏟아내자 수학자들이 이를 해석하느라 어려움을 겪고 있습니다. 샘 올트먼 CEO는 연구자들에게 공감하면서도 멈출 의도가 없다고 밝혔습니다. 회사가 보유한 발견들 중 더 많은 결과가 나올 수 있다는 힌트도 줬습니다.",
+      "reasonKo": "수학과 과학 연구에 AI가 어떻게 쓰이는지 보여 주는 사례입니다. 연구 분야 진로를 고민하는 대학생에게 AI와 학문의 관계를 생각해 볼 기회를 줍니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "descriptionEn": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring…",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "publishedAt": "2026-10-30T22:32:53.000Z",
+      "categories": [
+        "AI",
+        "Apple",
+        "iOS",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg",
+      "rank": 5,
+      "titleKo": "애플 인텔리전스, iOS 27.3으로 중국 출시",
+      "summaryKo": "애플은 iOS 27.3을 통해 중국에서 애플 인텔리전스를 출시한다고 중국 뉴스룸에서 발표했습니다. 해당 기능은 11월 4일 예정인 iOS 27.3 베타에서 먼저 제공되고, 정식 버전은 12월에 나올 예정입니다. 기사는 이번 출시가 가져오는 변화를 함께 전합니다.",
+      "reasonKo": "스마트폰에서 매일 쓰는 AI 기능이 지역에 따라 어떻게 다르게 제공되는지 알 수 있습니다. 일상에서 AI 서비스를 쓰는 대학생에게 실질적으로 와닿는 소식입니다."
+    }
+  ]
+}
