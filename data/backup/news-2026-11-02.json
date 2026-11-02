@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-11-02T01:09:53.414Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "WIRED",
+      "titleEn": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "descriptionEn": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "publishedAt": "2026-11-01T10:30:00.000Z",
+      "categories": [
+        "Science",
+        "Science / Environment"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg",
+      "rank": 1,
+      "titleKo": "챗봇이 등산객을 잘못된 길로 이끌고 있다",
+      "summaryKo": "계획 세우기를 AI에 맡기면 사람들이 스스로 비판적으로 생각하는 능력을 내려놓게 될 수 있다는 소식입니다. 이런 현상은 오지 산행처럼 위험한 환경에서 치명적인 결과로 이어질 수 있다고 전합니다.",
+      "reasonKo": "과제나 일상 문제에서 AI 답을 그대로 믿는 습관이 얼마나 위험한지 보여줘, 대학생이 AI를 비판적으로 쓰는 법을 생각하게 합니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "The biggest names in AI are backing a new way to opt out of scraping",
+      "descriptionEn": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal…",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "publishedAt": "2026-10-30T20:26:10.000Z",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg",
+      "rank": 2,
+      "titleKo": "AI 기업들, 웹 스크래핑 거부를 위한 새 공통 표준 지지",
+      "summaryKo": "OpenAI, Google, Microsoft, Anthropic이 출판사가 AI 스크래핑을 거부할 수 있는 새 표준을 따르기로 했습니다. 출판사는 개별 회사마다 설정하지 않고 여러 AI 회사에 학습 선호를 한 번에 적용할 수 있습니다.",
+      "reasonKo": "AI 학습 데이터와 저작권이 어떻게 관리되는지 보여줘, 콘텐츠를 만들고 쓰는 대학생이 알아두면 좋은 주제입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "descriptionEn": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring…",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "publishedAt": "2026-10-30T22:32:53.000Z",
+      "categories": [
+        "AI",
+        "Apple",
+        "iOS",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg",
+      "rank": 3,
+      "titleKo": "애플 인텔리전스, iOS 27.3으로 중국 출시",
+      "summaryKo": "애플이 iOS 27.3을 통해 중국에서 Apple Intelligence를 출시한다고 발표했습니다. 먼저 11월 4일 예정인 iOS 27.3 베타에서 제공되고, 정식 출시는 12월로 예정되어 있습니다.",
+      "reasonKo": "스마트폰에 들어가는 AI 기능이 지역에 따라 언제 어떻게 제공되는지 보여주어, 일상에서 쓰는 AI 서비스에 관심 있는 학생에게 유용합니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "descriptionEn": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "categories": [
+        "Security",
+        "Security / Cyberattacks and Hacks"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
+      "rank": 4,
+      "titleKo": "AI로 피해자 정보를 모으는 새 정보 탈취 악성코드",
+      "summaryKo": "'Volta-Autodoxer'라는 새로 발견된 악성코드가 AI 도구를 사용해 피해자 정보를 수집합니다. 로그인 정보와 신용카드 번호뿐 아니라 Discord 세션과 UberEats 영수증까지 노린다고 전합니다.",
+      "reasonKo": "AI가 해킹에 악용되는 방식을 보여줘, 온라인 계정과 개인정보를 어떻게 지켜야 하는지 대학생에게 실질적인 경각심을 줍니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "descriptionEn": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net,…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "publishedAt": "2026-10-30T13:01:14.000Z",
+      "categories": [
+        "AI",
+        "News",
+        "OpenAI",
+        "Science"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg",
+      "rank": 5,
+      "titleKo": "샘 올트먼, 수학자들의 고충은 이해하지만 OpenAI의 수학 성과 공세는 계속될 것",
+      "summaryKo": "수학자들이 AI가 만든 결과의 끊임없는 흐름에 시달리고 있다는 점에 샘 올트먼 CEO가 공감을 표했습니다. 그러나 그는 공세를 멈출 생각이 없으며, 회사가 보유한 발견 목록에서 더 많은 결과가 나올 수 있다고 시사했습니다.",
+      "reasonKo": "AI가 수학 같은 기초 학문 연구에 들어오는 상황을 보여줘, 이공계 전공 학생이 연구와 진로를 고민할 때 참고할 만합니다."
+    }
+  ]
+}
