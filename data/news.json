@@ -1,93 +1,86 @@
 {
-  "generatedAt": "2026-11-05T01:55:28.381Z",
+  "generatedAt": "2026-11-06T01:57:04.063Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
     {
-      "source": "WIRED",
-      "titleEn": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "descriptionEn": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-      "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "publishedAt": "2026-11-04T20:06:21.000Z",
+      "source": "The Verge",
+      "titleEn": "Claude AI can plug directly into your bank account",
+      "descriptionEn": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "publishedAt": "2026-11-05T18:00:00.000Z",
       "categories": [
-        "Business",
-        "Business / Big Tech"
+        "AI",
+        "Anthropic",
+        "News"
       ],
-      "imageUrl": "https://media.wired.com/photos/6aeb7c5b7b2c9d5f35a29177/master/pass/110426-google-search-schools.jpg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg",
       "rank": 1,
-      "titleKo": "구글, 교실에서도 AI 개요 노출 강화… 학부모·교육자 반발",
-      "summaryKo": "구글이 AI 개요(AI Overviews)를 기존 검색과 묶어 제공하면서 학교 현장에서도 기계가 만든 답변을 쉽게 접하게 되고 있습니다. 학부모와 교육자들은 쉬운 자동 답변이 아이들의 역량을 떨어뜨릴 수 있다고 우려하며 이를 피할 방법을 찾고 있습니다.",
-      "reasonKo": "과제와 자료 조사에 AI 검색을 자주 쓰는 대학생이라면, AI 답변에 대한 의존이 학습 능력에 어떤 영향을 줄지 돌아볼 수 있는 기사입니다."
+      "titleKo": "Claude, 은행·카드 계정에 직접 연결된다",
+      "summaryKo": "Anthropic이 Claude에 개인 금융 기능을 새로 추가했습니다. Plaid 플랫폼을 통해 은행 및 카드 계정과 연결할 수 있습니다. 사용자는 '이번 달 돈이 어디에 쓰였는지' 같은 질문을 할 수 있고, Claude가 지출 개요를 만들어 줍니다.",
+      "reasonKo": "편리한 AI 서비스가 금융 데이터에 접근할 때 개인정보를 어떻게 다뤄야 할지 생각해 볼 수 있는 기사입니다."
     },
     {
       "source": "The Verge",
-      "titleEn": "ChatGPT will now make you animated GIFs",
-      "descriptionEn": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "publishedAt": "2026-11-04T18:00:00.000Z",
+      "titleEn": "Perplexity launches its own take on AI agents for work",
+      "descriptionEn": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "publishedAt": "2026-11-05T22:26:50.000Z",
       "categories": [
         "AI",
-        "Apps",
-        "News",
-        "OpenAI",
-        "Tech"
+        "News"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg",
       "rank": 2,
-      "titleKo": "ChatGPT, 이제 애니메이션 GIF를 만들어 준다",
-      "summaryKo": "ChatGPT가 프롬프트나 업로드한 사진으로 애니메이션 GIF를 직접 만들 수 있게 되었습니다. 이 기능은 OpenAI의 새 이미지 모델 Images 2.6과 함께 출시되며, 애니메이션 속도 조절, 개별 프레임 편집, 공유를 지원합니다.",
-      "reasonKo": "발표 자료나 SNS 콘텐츠를 만드는 대학생이 별도 프로그램 없이 간단히 움직이는 이미지를 만들 수 있어 실용적인 소식입니다."
+      "titleKo": "Perplexity, 업무용 AI 에이전트 '팀메이트' 출시",
+      "summaryKo": "Perplexity가 OpenAI와 Anthropic에 맞서 업무 중심의 AI 에이전트를 내놓았습니다. 항상 켜져 있는 '팀메이트'는 작업 공간에서 여러 역할을 맡을 수 있습니다. 기존 Perplexity 도구의 프로젝트, 기술, 메모리를 가져와 함께 사용할 수 있다고 소개됩니다.",
+      "reasonKo": "과제나 팀 프로젝트, 신입 사원의 업무 환경에서 AI 에이전트가 어떤 역할을 맡게 될지 가늠해 볼 수 있습니다."
     },
     {
       "source": "WIRED",
-      "titleEn": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "descriptionEn": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-      "publishedAt": "2026-11-04T19:16:25.000Z",
+      "titleEn": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "descriptionEn": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "publishedAt": "2026-11-05T11:45:00.000Z",
       "categories": [
-        "Business",
-        "Security"
+        "Culture"
       ],
-      "imageUrl": "https://media.wired.com/photos/6aeb930828f7263543de4332/master/pass/WWF-Clement-Delangue-2.jpg",
+      "imageUrl": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg",
       "rank": 3,
-      "titleKo": "허깅페이스 CEO “AI로 인한 인류 파멸 가능성은 거의 0”",
-      "summaryKo": "허깅페이스의 CEO 클레망 드랑주는 자신의 P(Doom), 즉 AI로 인한 파멸 가능성을 “거의 0”에 가깝다고 말했습니다. 그는 위험의 대부분은 문을 닫고 AI를 만드는 소수 기업에서 비롯된다며 오픈소스 AI의 필요성을 강조했습니다.",
-      "reasonKo": "AI 안전과 오픈소스 공개 여부를 둘러싼 논쟁을 이해하면 AI 윤리와 기술 정책에 대한 관점을 넓힐 수 있습니다."
+      "titleKo": "AI 연구소를 비판해 온 인플루언서에게 쏟아진 러브콜",
+      "summaryKo": "OpenAI, Anthropic, SpaceXSI가 모두 Husk라는 인플루언서에게 연락을 했습니다. Husk는 챗봇의 한계를 드러내는 콘텐츠로 자주 화제가 되어 온 인물입니다.",
+      "reasonKo": "AI 결과물을 검증하고 비판하는 일이 새로운 직업 기회가 될 수 있다는 점에서 진로를 고민하는 학생들에게 흥미로운 사례입니다."
     },
     {
       "source": "WIRED",
-      "titleEn": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-      "descriptionEn": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "publishedAt": "2026-11-04T13:49:51.000Z",
+      "titleEn": "AI’s Next Trick? Speaking Dolphin",
+      "descriptionEn": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "categories": [
+        "Science"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg",
+      "rank": 4,
+      "titleKo": "AI가 돌고래의 언어에 도전한다",
+      "summaryKo": "Wild Dolphin Project의 창립자이자 디렉터인 Denise Herzing이 AI를 활용해 돌고래의 오디오와 영상 자료를 분석하고 있습니다. 이 프로젝트는 해양 포유류의 소통을 이해하는 것을 목표로 합니다.",
+      "reasonKo": "AI가 과학 연구의 방대한 데이터를 분석하는 데 어떻게 쓰이는지 보여주는 사례로, 전공과 무관하게 흥미를 느낄 수 있습니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "descriptionEn": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "publishedAt": "2026-11-05T21:37:18.000Z",
       "categories": [
         "Business",
         "Business / Artificial Intelligence"
       ],
-      "imageUrl": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/pass/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg",
-      "rank": 4,
-      "titleKo": "영국 정부가 말한 AI의 경제 효과 4,000억 파운드, 대부분 구글 자료에서 나왔다",
-      "summaryKo": "영국 정부는 AI가 경제에 4,000억 파운드를 더할 것이라고 발표했지만, 이 수치는 주로 구글에서 나온 것으로 보도되었습니다. AI 장관은 이제 추정치가 그보다 3분의 1에도 못 미친다고 인정했으며, 연구자들은 느린 AI 도입 속도를 원인으로 꼽았습니다.",
-      "reasonKo": "AI가 경제와 일자리에 주는 실제 효과를 발표 수치 뒤의 근거로 따져볼 수 있어, 진로를 고민하는 학생에게 의미가 있습니다."
-    },
-    {
-      "source": "The Verge",
-      "titleEn": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "descriptionEn": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during…",
-      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "publishedAt": "2026-11-04T15:58:45.000Z",
-      "categories": [
-        "AI",
-        "News",
-        "Ride-sharing",
-        "Transportation",
-        "Uber"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg",
+      "imageUrl": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg",
       "rank": 5,
-      "titleKo": "우버, 지난 분기 AI 에이전트를 통한 승차는 단 4건",
-      "summaryKo": "우버 경영진은 2026년 3분기 실적 발표에서 제3자 AI 에이전트를 통해 이루어진 승차가 4건에 불과했다고 밝혔습니다. 우버이츠 주문은 '약 500건'으로 조금 더 많았습니다.",
-      "reasonKo": "AI 에이전트가 실제 서비스에서 얼마나 쓰이는지 보여주는 사례로, 주목받는 AI 에이전트 기술의 현실을 점검하는 데 도움이 됩니다."
+      "titleKo": "챗봇에도 광고가 등장했다, 무엇이 통하고 무엇이 안 통할까",
+      "summaryKo": "Anthropic은 Claude에 광고를 넣지 않겠다는 약속을 유지하고 있습니다. 나머지 AI 챗봇 업계는 사용자를 자극하지 않으면서 광고주를 끌어들이기 위해 경쟁하고 있습니다.",
+      "reasonKo": "무료로 AI 챗봇을 쓰는 대학생이라면 서비스의 수익 구조와 광고가 사용자 경험에 미칠 영향을 함께 생각해 볼 필요가 있습니다."
     }
   ]
 }
