@@ -1,71 +1,8 @@
 {
-  "generatedAt": "2026-11-06T01:57:04.063Z",
+  "generatedAt": "2026-11-07T01:29:17.202Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
-    {
-      "source": "The Verge",
-      "titleEn": "Claude AI can plug directly into your bank account",
-      "descriptionEn": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "categories": [
-        "AI",
-        "Anthropic",
-        "News"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg",
-      "rank": 1,
-      "titleKo": "Claude, 은행·카드 계정에 직접 연결된다",
-      "summaryKo": "Anthropic이 Claude에 개인 금융 기능을 새로 추가했습니다. Plaid 플랫폼을 통해 은행 및 카드 계정과 연결할 수 있습니다. 사용자는 '이번 달 돈이 어디에 쓰였는지' 같은 질문을 할 수 있고, Claude가 지출 개요를 만들어 줍니다.",
-      "reasonKo": "편리한 AI 서비스가 금융 데이터에 접근할 때 개인정보를 어떻게 다뤄야 할지 생각해 볼 수 있는 기사입니다."
-    },
-    {
-      "source": "The Verge",
-      "titleEn": "Perplexity launches its own take on AI agents for work",
-      "descriptionEn": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "publishedAt": "2026-11-05T22:26:50.000Z",
-      "categories": [
-        "AI",
-        "News"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg",
-      "rank": 2,
-      "titleKo": "Perplexity, 업무용 AI 에이전트 '팀메이트' 출시",
-      "summaryKo": "Perplexity가 OpenAI와 Anthropic에 맞서 업무 중심의 AI 에이전트를 내놓았습니다. 항상 켜져 있는 '팀메이트'는 작업 공간에서 여러 역할을 맡을 수 있습니다. 기존 Perplexity 도구의 프로젝트, 기술, 메모리를 가져와 함께 사용할 수 있다고 소개됩니다.",
-      "reasonKo": "과제나 팀 프로젝트, 신입 사원의 업무 환경에서 AI 에이전트가 어떤 역할을 맡게 될지 가늠해 볼 수 있습니다."
-    },
-    {
-      "source": "WIRED",
-      "titleEn": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "descriptionEn": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "publishedAt": "2026-11-05T11:45:00.000Z",
-      "categories": [
-        "Culture"
-      ],
-      "imageUrl": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg",
-      "rank": 3,
-      "titleKo": "AI 연구소를 비판해 온 인플루언서에게 쏟아진 러브콜",
-      "summaryKo": "OpenAI, Anthropic, SpaceXSI가 모두 Husk라는 인플루언서에게 연락을 했습니다. Husk는 챗봇의 한계를 드러내는 콘텐츠로 자주 화제가 되어 온 인물입니다.",
-      "reasonKo": "AI 결과물을 검증하고 비판하는 일이 새로운 직업 기회가 될 수 있다는 점에서 진로를 고민하는 학생들에게 흥미로운 사례입니다."
-    },
-    {
-      "source": "WIRED",
-      "titleEn": "AI’s Next Trick? Speaking Dolphin",
-      "descriptionEn": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-      "publishedAt": "2026-11-05T12:00:00.000Z",
-      "categories": [
-        "Science"
-      ],
-      "imageUrl": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg",
-      "rank": 4,
-      "titleKo": "AI가 돌고래의 언어에 도전한다",
-      "summaryKo": "Wild Dolphin Project의 창립자이자 디렉터인 Denise Herzing이 AI를 활용해 돌고래의 오디오와 영상 자료를 분석하고 있습니다. 이 프로젝트는 해양 포유류의 소통을 이해하는 것을 목표로 합니다.",
-      "reasonKo": "AI가 과학 연구의 방대한 데이터를 분석하는 데 어떻게 쓰이는지 보여주는 사례로, 전공과 무관하게 흥미를 느낄 수 있습니다."
-    },
     {
       "source": "WIRED",
       "titleEn": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
@@ -77,10 +14,78 @@
         "Business / Artificial Intelligence"
       ],
       "imageUrl": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg",
+      "rank": 1,
+      "titleKo": "AI 챗봇에도 광고가 들어왔다: 무엇이 통하고 무엇이 안 통하나",
+      "summaryKo": "Anthropic은 Claude에 광고를 넣지 않겠다는 입장을 유지하고 있다. 나머지 AI 챗봇 업계는 사용자를 자극하지 않으면서 광고주를 확보하려고 경쟁하고 있다.",
+      "reasonKo": "과제와 일상에서 챗봇을 쓰는 대학생에게, 챗봇 서비스가 수익을 내는 방식이 바뀌는 흐름을 이해하는 데 도움이 된다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "descriptionEn": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "publishedAt": "2026-11-06T16:00:00.000Z",
+      "categories": [
+        "Business",
+        "Business / Tech Culture"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aece5b7cb93131011507281/master/pass/Backchannel-11062026_Option2.jpg",
+      "rank": 2,
+      "titleKo": "AI 기업들이 여러분의 업무 파일과 이메일을 사고 싶어 한다",
+      "summaryKo": "데이터 브로커들이 AI 모델 학습을 위해 기업의 내부 파일을 대량으로 수집하고 있다. 이를 달가워하지 않는 사람들도 많다.",
+      "reasonKo": "인턴이나 직장에서 만드는 문서와 메일이 AI 학습에 쓰일 수 있다는 점은, 대학생이 알아야 할 개인정보와 데이터 권리 문제와 직결된다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "AI is the new dating dealbreaker",
+      "descriptionEn": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "categories": [
+        "AI",
+        "Culture",
+        "Entertainment",
+        "Internet Culture"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg",
+      "rank": 3,
+      "titleKo": "AI는 새로운 데이팅 기피 요소가 되고 있다",
+      "summaryKo": "샌프란시스코로 이사한 25세 분석가 Irene은 데이팅 앱을 사용하면서 한 가지 경향을 발견했다. 데이팅 앱 Hinge의 프롬프트를 비롯해 AI가 상대를 고르는 기준에 영향을 미치고 있다는 내용이다.",
+      "reasonKo": "연애와 인간관계에서 AI가 어떤 식으로 개입하는지 보여줘, 또래 문화 속 AI 인식을 이해하는 데 흥미로운 사례다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "descriptionEn": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by…",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "publishedAt": "2026-11-06T18:10:10.000Z",
+      "categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png",
+      "rank": 4,
+      "titleKo": "Meta의 Muse, 필요한 앱을 대화 속에서 바로 만든다",
+      "summaryKo": "Meta는 Muse 안에서 앱처럼 동작하는 맞춤형 '스페이스' 기능을 선보였다. AI 어시스턴트가 쇼핑 허브, 학교 대시보드, 음악 트래커, 퀴즈 게임 등을 만들고 사용자가 Muse 앱에서 바로 이용할 수 있다.",
+      "reasonKo": "학교 대시보드처럼 학생이 직접 쓸 법한 도구를 AI로 만드는 사례라, 일상 속 AI 서비스의 방향을 가늠해 볼 수 있다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "descriptionEn": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "publishedAt": "2026-11-06T18:43:43.000Z",
+      "categories": [
+        "Security",
+        "Security / Cyberattacks and Hacks"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif",
       "rank": 5,
-      "titleKo": "챗봇에도 광고가 등장했다, 무엇이 통하고 무엇이 안 통할까",
-      "summaryKo": "Anthropic은 Claude에 광고를 넣지 않겠다는 약속을 유지하고 있습니다. 나머지 AI 챗봇 업계는 사용자를 자극하지 않으면서 광고주를 끌어들이기 위해 경쟁하고 있습니다.",
-      "reasonKo": "무료로 AI 챗봇을 쓰는 대학생이라면 서비스의 수익 구조와 광고가 사용자 경험에 미칠 영향을 함께 생각해 볼 필요가 있습니다."
+      "titleKo": "무료 중국산 AI 모델, 해킹 실력이 무섭게 좋아지고 있다",
+      "summaryKo": "AI 모델에게 시뮬레이션된 네트워크 침투를 시키는 실험에서, DeepSeek와 GLM의 해킹 능력이 OpenAI의 가장 발전된 비공개 사이버 모델에 크게 뒤지지 않는 것으로 나타났다.",
+      "reasonKo": "사이버 보안을 전공하거나 진로를 고민하는 학생에게, AI가 보안 위협과 방어 양쪽에 어떤 영향을 줄지 생각해 볼 계기가 된다."
     }
   ]
 }

@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2026-11-07T01:29:17.202Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "WIRED",
+      "titleEn": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "descriptionEn": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "publishedAt": "2026-11-05T21:37:18.000Z",
+      "categories": [
+        "Business",
+        "Business / Artificial Intelligence"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg",
+      "rank": 1,
+      "titleKo": "AI 챗봇에도 광고가 들어왔다: 무엇이 통하고 무엇이 안 통하나",
+      "summaryKo": "Anthropic은 Claude에 광고를 넣지 않겠다는 입장을 유지하고 있다. 나머지 AI 챗봇 업계는 사용자를 자극하지 않으면서 광고주를 확보하려고 경쟁하고 있다.",
+      "reasonKo": "과제와 일상에서 챗봇을 쓰는 대학생에게, 챗봇 서비스가 수익을 내는 방식이 바뀌는 흐름을 이해하는 데 도움이 된다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "descriptionEn": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "publishedAt": "2026-11-06T16:00:00.000Z",
+      "categories": [
+        "Business",
+        "Business / Tech Culture"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aece5b7cb93131011507281/master/pass/Backchannel-11062026_Option2.jpg",
+      "rank": 2,
+      "titleKo": "AI 기업들이 여러분의 업무 파일과 이메일을 사고 싶어 한다",
+      "summaryKo": "데이터 브로커들이 AI 모델 학습을 위해 기업의 내부 파일을 대량으로 수집하고 있다. 이를 달가워하지 않는 사람들도 많다.",
+      "reasonKo": "인턴이나 직장에서 만드는 문서와 메일이 AI 학습에 쓰일 수 있다는 점은, 대학생이 알아야 할 개인정보와 데이터 권리 문제와 직결된다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "AI is the new dating dealbreaker",
+      "descriptionEn": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "categories": [
+        "AI",
+        "Culture",
+        "Entertainment",
+        "Internet Culture"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg",
+      "rank": 3,
+      "titleKo": "AI는 새로운 데이팅 기피 요소가 되고 있다",
+      "summaryKo": "샌프란시스코로 이사한 25세 분석가 Irene은 데이팅 앱을 사용하면서 한 가지 경향을 발견했다. 데이팅 앱 Hinge의 프롬프트를 비롯해 AI가 상대를 고르는 기준에 영향을 미치고 있다는 내용이다.",
+      "reasonKo": "연애와 인간관계에서 AI가 어떤 식으로 개입하는지 보여줘, 또래 문화 속 AI 인식을 이해하는 데 흥미로운 사례다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "descriptionEn": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by…",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "publishedAt": "2026-11-06T18:10:10.000Z",
+      "categories": [
+        "AI",
+        "Apps",
+        "Meta",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png",
+      "rank": 4,
+      "titleKo": "Meta의 Muse, 필요한 앱을 대화 속에서 바로 만든다",
+      "summaryKo": "Meta는 Muse 안에서 앱처럼 동작하는 맞춤형 '스페이스' 기능을 선보였다. AI 어시스턴트가 쇼핑 허브, 학교 대시보드, 음악 트래커, 퀴즈 게임 등을 만들고 사용자가 Muse 앱에서 바로 이용할 수 있다.",
+      "reasonKo": "학교 대시보드처럼 학생이 직접 쓸 법한 도구를 AI로 만드는 사례라, 일상 속 AI 서비스의 방향을 가늠해 볼 수 있다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "descriptionEn": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "publishedAt": "2026-11-06T18:43:43.000Z",
+      "categories": [
+        "Security",
+        "Security / Cyberattacks and Hacks"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif",
+      "rank": 5,
+      "titleKo": "무료 중국산 AI 모델, 해킹 실력이 무섭게 좋아지고 있다",
+      "summaryKo": "AI 모델에게 시뮬레이션된 네트워크 침투를 시키는 실험에서, DeepSeek와 GLM의 해킹 능력이 OpenAI의 가장 발전된 비공개 사이버 모델에 크게 뒤지지 않는 것으로 나타났다.",
+      "reasonKo": "사이버 보안을 전공하거나 진로를 고민하는 학생에게, AI가 보안 위협과 방어 양쪽에 어떤 영향을 줄지 생각해 볼 계기가 된다."
+    }
+  ]
+}
