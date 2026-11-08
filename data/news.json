@@ -1,39 +1,25 @@
 {
-  "generatedAt": "2026-11-07T01:29:17.202Z",
+  "generatedAt": "2026-11-08T00:59:37.383Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
     {
-      "source": "WIRED",
-      "titleEn": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "descriptionEn": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "publishedAt": "2026-11-05T21:37:18.000Z",
+      "source": "The Verge",
+      "titleEn": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "descriptionEn": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best…",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "publishedAt": "2026-11-07T15:50:00.000Z",
       "categories": [
-        "Business",
-        "Business / Artificial Intelligence"
+        "AI",
+        "Reviews",
+        "Smart Home Reviews",
+        "Tech"
       ],
-      "imageUrl": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg",
       "rank": 1,
-      "titleKo": "AI 챗봇에도 광고가 들어왔다: 무엇이 통하고 무엇이 안 통하나",
-      "summaryKo": "Anthropic은 Claude에 광고를 넣지 않겠다는 입장을 유지하고 있다. 나머지 AI 챗봇 업계는 사용자를 자극하지 않으면서 광고주를 확보하려고 경쟁하고 있다.",
-      "reasonKo": "과제와 일상에서 챗봇을 쓰는 대학생에게, 챗봇 서비스가 수익을 내는 방식이 바뀌는 흐름을 이해하는 데 도움이 된다."
-    },
-    {
-      "source": "WIRED",
-      "titleEn": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "descriptionEn": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "publishedAt": "2026-11-06T16:00:00.000Z",
-      "categories": [
-        "Business",
-        "Business / Tech Culture"
-      ],
-      "imageUrl": "https://media.wired.com/photos/6aece5b7cb93131011507281/master/pass/Backchannel-11062026_Option2.jpg",
-      "rank": 2,
-      "titleKo": "AI 기업들이 여러분의 업무 파일과 이메일을 사고 싶어 한다",
-      "summaryKo": "데이터 브로커들이 AI 모델 학습을 위해 기업의 내부 파일을 대량으로 수집하고 있다. 이를 달가워하지 않는 사람들도 많다.",
-      "reasonKo": "인턴이나 직장에서 만드는 문서와 메일이 AI 학습에 쓰일 수 있다는 점은, 대학생이 알아야 할 개인정보와 데이터 권리 문제와 직결된다."
+      "titleKo": "NYT 쿠킹 AI 어시스턴트, 평일 저녁 치킨은 살렸지만 케이크는 망쳤다",
+      "summaryKo": "매일 저녁 메뉴를 고민하는 필자가 NYT 쿠킹의 AI 어시스턴트를 써 봤습니다. 평일 저녁 요리에는 도움이 되었지만 케이크 만들기에서는 문제가 생겼습니다. 일상에서 쓰는 AI 서비스의 실제 사용 경험을 담은 리뷰입니다.",
+      "reasonKo": "자취나 기숙사에서 간단한 요리를 하는 대학생이라면 생활 속 AI 도구가 어디까지 도움이 되는지 가늠하는 데 참고가 됩니다."
     },
     {
       "source": "The Verge",
@@ -48,44 +34,58 @@
         "Internet Culture"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg",
-      "rank": 3,
-      "titleKo": "AI는 새로운 데이팅 기피 요소가 되고 있다",
-      "summaryKo": "샌프란시스코로 이사한 25세 분석가 Irene은 데이팅 앱을 사용하면서 한 가지 경향을 발견했다. 데이팅 앱 Hinge의 프롬프트를 비롯해 AI가 상대를 고르는 기준에 영향을 미치고 있다는 내용이다.",
-      "reasonKo": "연애와 인간관계에서 AI가 어떤 식으로 개입하는지 보여줘, 또래 문화 속 AI 인식을 이해하는 데 흥미로운 사례다."
-    },
-    {
-      "source": "The Verge",
-      "titleEn": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "descriptionEn": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by…",
-      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "publishedAt": "2026-11-06T18:10:10.000Z",
-      "categories": [
-        "AI",
-        "Apps",
-        "Meta",
-        "Tech"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png",
-      "rank": 4,
-      "titleKo": "Meta의 Muse, 필요한 앱을 대화 속에서 바로 만든다",
-      "summaryKo": "Meta는 Muse 안에서 앱처럼 동작하는 맞춤형 '스페이스' 기능을 선보였다. AI 어시스턴트가 쇼핑 허브, 학교 대시보드, 음악 트래커, 퀴즈 게임 등을 만들고 사용자가 Muse 앱에서 바로 이용할 수 있다.",
-      "reasonKo": "학교 대시보드처럼 학생이 직접 쓸 법한 도구를 AI로 만드는 사례라, 일상 속 AI 서비스의 방향을 가늠해 볼 수 있다."
+      "rank": 2,
+      "titleKo": "AI는 새로운 데이팅 앱의 결정적 거절 사유",
+      "summaryKo": "샌프란시스코로 이사한 25세 분석가 아이린은 데이팅 앱을 통해 새로운 사람들을 만나려 했습니다. 그런데 앱에서 AI와 관련된 요소가 반복해서 눈에 띄었다고 합니다. 기사는 AI가 연애와 인간관계에 어떤 영향을 주는지 다룹니다.",
+      "reasonKo": "연애와 인간관계를 실제로 겪는 대학생들이 AI가 사람 사이의 관계 문화를 어떻게 바꾸고 있는지 생각해 볼 수 있는 주제입니다."
     },
     {
       "source": "WIRED",
-      "titleEn": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "descriptionEn": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "publishedAt": "2026-11-06T18:43:43.000Z",
+      "titleEn": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "descriptionEn": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "publishedAt": "2026-11-06T16:00:00.000Z",
       "categories": [
-        "Security",
-        "Security / Cyberattacks and Hacks"
+        "Business",
+        "Business / Tech Culture"
       ],
-      "imageUrl": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif",
+      "imageUrl": "https://media.wired.com/photos/6aece5b7cb93131011507281/master/pass/Backchannel-11062026_Option2.jpg",
+      "rank": 3,
+      "titleKo": "AI 기업들이 여러분의 업무 파일과 이메일을 사고 싶어 한다",
+      "summaryKo": "데이터 브로커들이 AI 모델 학습에 쓰기 위해 기업 내부의 다양한 업무 파일을 수집하고 있습니다. 모든 사람이 이를 반기는 것은 아닙니다. 기사는 AI 학습 데이터를 둘러싼 개인정보와 업무 자료 문제를 다룹니다.",
+      "reasonKo": "인턴이나 아르바이트로 회사 문서와 이메일을 다루게 될 대학생이라면 데이터 사용과 개인정보 보호 문제를 미리 알아 둘 필요가 있습니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "descriptionEn": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "publishedAt": "2026-11-05T21:37:18.000Z",
+      "categories": [
+        "Business",
+        "Business / Artificial Intelligence"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg",
+      "rank": 4,
+      "titleKo": "챗봇에도 광고가 등장했다, 무엇이 통하고 무엇이 통하지 않나",
+      "summaryKo": "Anthropic은 Claude에 광고를 넣지 않겠다는 입장을 유지하고 있습니다. 반면 다른 AI 챗봇 업계는 사용자를 자극하지 않으면서 광고주를 확보하려고 경쟁하고 있습니다. 기사는 챗봇 광고의 현재 상황을 다룹니다.",
+      "reasonKo": "무료로 챗봇을 쓰는 학생들이 서비스 수익 구조와 광고가 답변에 미칠 수 있는 영향을 이해하는 데 도움이 됩니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "descriptionEn": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "publishedAt": "2026-11-07T12:30:00.000Z",
+      "categories": [
+        "AI",
+        "Anthropic"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg",
       "rank": 5,
-      "titleKo": "무료 중국산 AI 모델, 해킹 실력이 무섭게 좋아지고 있다",
-      "summaryKo": "AI 모델에게 시뮬레이션된 네트워크 침투를 시키는 실험에서, DeepSeek와 GLM의 해킹 능력이 OpenAI의 가장 발전된 비공개 사이버 모델에 크게 뒤지지 않는 것으로 나타났다.",
-      "reasonKo": "사이버 보안을 전공하거나 진로를 고민하는 학생에게, AI가 보안 위협과 방어 양쪽에 어떤 영향을 줄지 생각해 볼 계기가 된다."
+      "titleKo": "Anthropic이 AI 개발을 AI에 맡기고 있다는 보고서가 연구자들을 놀라게 하다",
+      "summaryKo": "Anthropic은 AI를 사용해 더 강력한 AI를 만들고 있으며, 모델 개선 속도가 1년 전보다 약 두 배 빨라졌다고 합니다. 이 내용은 AI 안전 연구 단체 METR이 11주간의 조사 끝에 발표한 보고서에 담겼습니다. 기사는 이 흐름이 연구자들에게 어떤 우려를 낳는지 다룹니다.",
+      "reasonKo": "AI 개발 속도와 안전 문제는 앞으로 AI 분야 진로를 생각하는 대학생들이 반드시 짚어 볼 주제입니다."
     }
   ]
 }
