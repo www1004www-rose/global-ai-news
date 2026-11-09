@@ -1,43 +1,25 @@
 {
-  "generatedAt": "2026-11-08T00:59:37.383Z",
+  "generatedAt": "2026-11-09T01:20:30.225Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
     {
       "source": "The Verge",
-      "titleEn": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "descriptionEn": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best…",
-      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "publishedAt": "2026-11-07T15:50:00.000Z",
+      "titleEn": "Elvis and Eminem rights holders are suing Suno",
+      "descriptionEn": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "publishedAt": "2026-11-08T17:23:19.000Z",
       "categories": [
         "AI",
-        "Reviews",
-        "Smart Home Reviews",
-        "Tech"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg",
-      "rank": 1,
-      "titleKo": "NYT 쿠킹 AI 어시스턴트, 평일 저녁 치킨은 살렸지만 케이크는 망쳤다",
-      "summaryKo": "매일 저녁 메뉴를 고민하는 필자가 NYT 쿠킹의 AI 어시스턴트를 써 봤습니다. 평일 저녁 요리에는 도움이 되었지만 케이크 만들기에서는 문제가 생겼습니다. 일상에서 쓰는 AI 서비스의 실제 사용 경험을 담은 리뷰입니다.",
-      "reasonKo": "자취나 기숙사에서 간단한 요리를 하는 대학생이라면 생활 속 AI 도구가 어디까지 도움이 되는지 가늠하는 데 참고가 됩니다."
-    },
-    {
-      "source": "The Verge",
-      "titleEn": "AI is the new dating dealbreaker",
-      "descriptionEn": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "publishedAt": "2026-11-06T17:00:00.000Z",
-      "categories": [
-        "AI",
-        "Culture",
         "Entertainment",
-        "Internet Culture"
+        "Music",
+        "News"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg",
-      "rank": 2,
-      "titleKo": "AI는 새로운 데이팅 앱의 결정적 거절 사유",
-      "summaryKo": "샌프란시스코로 이사한 25세 분석가 아이린은 데이팅 앱을 통해 새로운 사람들을 만나려 했습니다. 그런데 앱에서 AI와 관련된 요소가 반복해서 눈에 띄었다고 합니다. 기사는 AI가 연애와 인간관계에 어떤 영향을 주는지 다룹니다.",
-      "reasonKo": "연애와 인간관계를 실제로 겪는 대학생들이 AI가 사람 사이의 관계 문화를 어떻게 바꾸고 있는지 생각해 볼 수 있는 주제입니다."
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg",
+      "rank": 1,
+      "titleKo": "Elvis·Eminem 권리자들, AI 음악 회사 Suno를 고소",
+      "summaryKo": "엘비스 프레슬리 음악의 권리자 그룹과 에미넴 히트곡의 출판사가 AI 음악 회사 Suno를 고소했습니다. 이들은 Suno가 두 아티스트를 모방한 음악과 가사를 불법으로 생성한다고 주장합니다. 프레슬리 측 소송은 테네시주 법 위반을 근거로 합니다.",
+      "reasonKo": "생성형 AI가 만든 결과물의 저작권 문제를 보여주는 사례라, AI 윤리와 저작권에 관심 있는 대학생이 알아두면 좋은 기사입니다."
     },
     {
       "source": "WIRED",
@@ -50,42 +32,58 @@
         "Business / Tech Culture"
       ],
       "imageUrl": "https://media.wired.com/photos/6aece5b7cb93131011507281/master/pass/Backchannel-11062026_Option2.jpg",
-      "rank": 3,
-      "titleKo": "AI 기업들이 여러분의 업무 파일과 이메일을 사고 싶어 한다",
-      "summaryKo": "데이터 브로커들이 AI 모델 학습에 쓰기 위해 기업 내부의 다양한 업무 파일을 수집하고 있습니다. 모든 사람이 이를 반기는 것은 아닙니다. 기사는 AI 학습 데이터를 둘러싼 개인정보와 업무 자료 문제를 다룹니다.",
-      "reasonKo": "인턴이나 아르바이트로 회사 문서와 이메일을 다루게 될 대학생이라면 데이터 사용과 개인정보 보호 문제를 미리 알아 둘 필요가 있습니다."
+      "rank": 2,
+      "titleKo": "AI 기업들, 직장인의 업무 파일과 이메일을 사들이려 한다",
+      "summaryKo": "데이터 브로커들이 AI 모델 학습에 쓰기 위해 여러 기업의 내부 업무 파일을 수집하고 있습니다. 이 움직임에 모든 사람이 찬성하는 것은 아닙니다.",
+      "reasonKo": "나중에 회사에 들어갈 대학생에게 내 업무 자료가 AI 학습에 쓰일 수 있다는 점은 개인정보와 업무 데이터 관리를 생각하게 합니다."
     },
     {
       "source": "WIRED",
-      "titleEn": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "descriptionEn": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "publishedAt": "2026-11-05T21:37:18.000Z",
+      "titleEn": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "descriptionEn": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
       "categories": [
-        "Business",
-        "Business / Artificial Intelligence"
+        "Gear",
+        "Gear / Gear News and Events"
       ],
-      "imageUrl": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg",
-      "rank": 4,
-      "titleKo": "챗봇에도 광고가 등장했다, 무엇이 통하고 무엇이 통하지 않나",
-      "summaryKo": "Anthropic은 Claude에 광고를 넣지 않겠다는 입장을 유지하고 있습니다. 반면 다른 AI 챗봇 업계는 사용자를 자극하지 않으면서 광고주를 확보하려고 경쟁하고 있습니다. 기사는 챗봇 광고의 현재 상황을 다룹니다.",
-      "reasonKo": "무료로 챗봇을 쓰는 학생들이 서비스 수익 구조와 광고가 답변에 미칠 수 있는 영향을 이해하는 데 도움이 됩니다."
+      "imageUrl": "https://media.wired.com/photos/6aee77f4ece1c19963602401/master/pass/gear-nyt-cooking-ai-assistant.jpg",
+      "rank": 3,
+      "titleKo": "NYT 쿠킹의 AI 레시피 수정 기능을 직접 써보니",
+      "summaryKo": "뉴욕타임스가 요리 앱 NYT Cooking에 재료를 바꾸거나 레시피를 입맛에 맞게 조절해 주는 베타 기능을 추가했습니다. 기사 필자가 이 기능을 써봤고, 대체로 기대에 맞았다고 평가합니다.",
+      "reasonKo": "자취나 기숙사 생활에서 식사 준비에 AI를 활용해 볼 수 있는 일상형 AI 서비스 사례입니다."
     },
     {
-      "source": "The Verge",
-      "titleEn": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "descriptionEn": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "publishedAt": "2026-11-07T12:30:00.000Z",
+      "source": "WIRED",
+      "titleEn": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "descriptionEn": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
       "categories": [
-        "AI",
-        "Anthropic"
+        "Gear",
+        "Gear / Trends"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg",
+      "imageUrl": "https://media.wired.com/photos/6aee7497bf81da8802edc3e6/master/pass/gear-ai-world-models-3d.jpg",
+      "rank": 4,
+      "titleKo": "곧 피할 수 없게 될 월드 모델, 알아둘 점은",
+      "summaryKo": "AI를 텍스트에서 3D 공간으로 옮기는 월드 모델이 주목받고 있습니다. 월드 모델은 실제 세계의 물리 법칙을 시뮬레이션해 로봇과 자율주행차에 현실을 탐색하는 법을 가르칩니다.",
+      "reasonKo": "로봇공학이나 자율주행 등 AI 기술 분야로 진로를 고민하는 대학생에게 다음 흐름을 미리 보여주는 기사입니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "descriptionEn": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "publishedAt": "2026-11-06T18:43:43.000Z",
+      "categories": [
+        "Security",
+        "Security / Cyberattacks and Hacks"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif",
       "rank": 5,
-      "titleKo": "Anthropic이 AI 개발을 AI에 맡기고 있다는 보고서가 연구자들을 놀라게 하다",
-      "summaryKo": "Anthropic은 AI를 사용해 더 강력한 AI를 만들고 있으며, 모델 개선 속도가 1년 전보다 약 두 배 빨라졌다고 합니다. 이 내용은 AI 안전 연구 단체 METR이 11주간의 조사 끝에 발표한 보고서에 담겼습니다. 기사는 이 흐름이 연구자들에게 어떤 우려를 낳는지 다룹니다.",
-      "reasonKo": "AI 개발 속도와 안전 문제는 앞으로 AI 분야 진로를 생각하는 대학생들이 반드시 짚어 볼 주제입니다."
+      "titleKo": "무료 중국산 AI 모델, 해킹 실력이 무섭도록 좋아지고 있다",
+      "summaryKo": "시뮬레이션된 네트워크에 침투하도록 AI 모델을 시험한 실험에서, DeepSeek와 GLM의 해킹 능력이 OpenAI의 가장 앞선 사이버 모델에 크게 뒤지지 않은 것으로 나타났습니다. 해당 OpenAI 모델은 공개되지 않은 상태입니다.",
+      "reasonKo": "AI가 보안 공격에 악용될 수 있다는 현실을 보여주므로, 보안 분야 진로를 생각하는 대학생에게 특히 의미가 있습니다."
     }
   ]
 }
