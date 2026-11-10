@@ -1,41 +1,40 @@
 {
-  "generatedAt": "2026-11-09T01:20:30.225Z",
+  "generatedAt": "2026-11-10T03:55:05.105Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
     {
       "source": "The Verge",
-      "titleEn": "Elvis and Eminem rights holders are suing Suno",
-      "descriptionEn": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "publishedAt": "2026-11-08T17:23:19.000Z",
+      "titleEn": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "descriptionEn": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
       "categories": [
         "AI",
-        "Entertainment",
-        "Music",
+        "Anthropic",
         "News"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg",
       "rank": 1,
-      "titleKo": "Elvis·Eminem 권리자들, AI 음악 회사 Suno를 고소",
-      "summaryKo": "엘비스 프레슬리 음악의 권리자 그룹과 에미넴 히트곡의 출판사가 AI 음악 회사 Suno를 고소했습니다. 이들은 Suno가 두 아티스트를 모방한 음악과 가사를 불법으로 생성한다고 주장합니다. 프레슬리 측 소송은 테네시주 법 위반을 근거로 합니다.",
-      "reasonKo": "생성형 AI가 만든 결과물의 저작권 문제를 보여주는 사례라, AI 윤리와 저작권에 관심 있는 대학생이 알아두면 좋은 기사입니다."
+      "titleKo": "Anthropic, 새 Claude Fable 5.2·Mythos 5.2 모델 출시",
+      "summaryKo": "Anthropic이 Claude Fable 5.2와 Claude Mythos 5.2 두 가지 새 모델을 공개했습니다. 회사는 코딩, 추론, 비전 능력이 향상되었고 5.1 버전보다 결과물을 더 빠르게 생성한다고 밝혔습니다. 두 모델은 '어려운' 기술 과제를 해결하기 위해 설계되었다고 합니다.",
+      "reasonKo": "과제나 코딩 공부에 AI를 쓰는 대학생이라면 새 모델의 성능 변화가 실제 사용 경험에 어떤 차이를 만들지 관심을 가질 만합니다."
     },
     {
       "source": "WIRED",
-      "titleEn": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "descriptionEn": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "publishedAt": "2026-11-06T16:00:00.000Z",
+      "titleEn": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "descriptionEn": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "publishedAt": "2026-11-09T11:00:00.000Z",
       "categories": [
-        "Business",
-        "Business / Tech Culture"
+        "Culture",
+        "Culture / Books"
       ],
-      "imageUrl": "https://media.wired.com/photos/6aece5b7cb93131011507281/master/pass/Backchannel-11062026_Option2.jpg",
+      "imageUrl": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg",
       "rank": 2,
-      "titleKo": "AI 기업들, 직장인의 업무 파일과 이메일을 사들이려 한다",
-      "summaryKo": "데이터 브로커들이 AI 모델 학습에 쓰기 위해 여러 기업의 내부 업무 파일을 수집하고 있습니다. 이 움직임에 모든 사람이 찬성하는 것은 아닙니다.",
-      "reasonKo": "나중에 회사에 들어갈 대학생에게 내 업무 자료가 AI 학습에 쓰일 수 있다는 점은 개인정보와 업무 데이터 관리를 생각하게 합니다."
+      "titleKo": "작가들, AI 의혹에 맞서 '종이 기록' 도구로 방어할 수 있을까",
+      "summaryKo": "출판업계에서는 원고의 출처를 둘러싼 AI 사용 의혹이 커지고 있습니다. 이에 작가들은 자신이 직접 썼음을 입증하는 '페이퍼 트레일' 도구를 활용하고 있습니다. 기사는 이 도구들이 충분한지 묻고 있으며, 작가들이 처한 진퇴양난을 다룹니다.",
+      "reasonKo": "레포트와 글쓰기 과제에서 AI 사용 의혹을 받을 수 있는 대학생에게 창작물의 진위와 AI 윤리 문제를 생각해 볼 계기가 됩니다."
     },
     {
       "source": "WIRED",
@@ -49,41 +48,51 @@
       ],
       "imageUrl": "https://media.wired.com/photos/6aee77f4ece1c19963602401/master/pass/gear-nyt-cooking-ai-assistant.jpg",
       "rank": 3,
-      "titleKo": "NYT 쿠킹의 AI 레시피 수정 기능을 직접 써보니",
-      "summaryKo": "뉴욕타임스가 요리 앱 NYT Cooking에 재료를 바꾸거나 레시피를 입맛에 맞게 조절해 주는 베타 기능을 추가했습니다. 기사 필자가 이 기능을 써봤고, 대체로 기대에 맞았다고 평가합니다.",
-      "reasonKo": "자취나 기숙사 생활에서 식사 준비에 AI를 활용해 볼 수 있는 일상형 AI 서비스 사례입니다."
+      "titleKo": "NYT 쿠킹의 새 AI 레시피 수정 기능을 써 보니",
+      "summaryKo": "뉴욕타임스가 요리 앱 NYT Cooking에 베타 기능으로 AI 레시피 수정 기능을 추가했습니다. 이 기능은 독자가 재료를 바꾸거나 레시피를 자신의 필요에 맞게 조정하도록 돕습니다. 기사에 따르면 결과는 대체로 목표에 맞는 편입니다.",
+      "reasonKo": "자취나 일상에서 요리하는 학생들이 실생활에서 AI 서비스를 어떻게 활용할 수 있는지 구체적인 사례로 볼 수 있습니다."
     },
     {
-      "source": "WIRED",
-      "titleEn": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "descriptionEn": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-      "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "source": "The Verge",
+      "titleEn": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "descriptionEn": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style…",
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "publishedAt": "2026-11-09T18:07:23.000Z",
       "categories": [
-        "Gear",
-        "Gear / Trends"
+        "AI",
+        "Creators",
+        "Instagram",
+        "Meta",
+        "News",
+        "Tech"
       ],
-      "imageUrl": "https://media.wired.com/photos/6aee7497bf81da8802edc3e6/master/pass/gear-ai-world-models-3d.jpg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg",
       "rank": 4,
-      "titleKo": "곧 피할 수 없게 될 월드 모델, 알아둘 점은",
-      "summaryKo": "AI를 텍스트에서 3D 공간으로 옮기는 월드 모델이 주목받고 있습니다. 월드 모델은 실제 세계의 물리 법칙을 시뮬레이션해 로봇과 자율주행차에 현실을 탐색하는 법을 가르칩니다.",
-      "reasonKo": "로봇공학이나 자율주행 등 AI 기술 분야로 진로를 고민하는 대학생에게 다음 흐름을 미리 보여주는 기사입니다."
+      "titleKo": "인스타그램 Effect Builder, AI 프롬프트로 필터 만들기",
+      "summaryKo": "인스타그램이 AI로 스토리용 맞춤 필터를 생성하는 Effect Builder를 출시했습니다. 사용자는 채팅형 입력창에 원하는 필터를 설명하고 스타일 이미지를 첨부할 수 있습니다. 현재 만 18세 이상의 미국 거주자를 대상으로 제공됩니다.",
+      "reasonKo": "SNS를 일상적으로 쓰는 대학생이 AI 크리에이티브 도구를 직접 체험해 볼 수 있는 서비스라는 점에서 의미가 있습니다."
     },
     {
-      "source": "WIRED",
-      "titleEn": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "descriptionEn": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "publishedAt": "2026-11-06T18:43:43.000Z",
+      "source": "The Verge",
+      "titleEn": "Disney and Adobe are building generative AI tools together",
+      "descriptionEn": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to…",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "publishedAt": "2026-11-09T15:38:56.000Z",
       "categories": [
-        "Security",
-        "Security / Cyberattacks and Hacks"
+        "Adobe",
+        "AI",
+        "Creators",
+        "Disney",
+        "Entertainment",
+        "News",
+        "Streaming",
+        "Tech"
       ],
-      "imageUrl": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg",
       "rank": 5,
-      "titleKo": "무료 중국산 AI 모델, 해킹 실력이 무섭도록 좋아지고 있다",
-      "summaryKo": "시뮬레이션된 네트워크에 침투하도록 AI 모델을 시험한 실험에서, DeepSeek와 GLM의 해킹 능력이 OpenAI의 가장 앞선 사이버 모델에 크게 뒤지지 않은 것으로 나타났습니다. 해당 OpenAI 모델은 공개되지 않은 상태입니다.",
-      "reasonKo": "AI가 보안 공격에 악용될 수 있다는 현실을 보여주므로, 보안 분야 진로를 생각하는 대학생에게 특히 의미가 있습니다."
+      "titleKo": "디즈니와 어도비, 함께 생성형 AI 도구 개발",
+      "summaryKo": "월트 디즈니 컴퍼니가 어도비와 손잡고 디즈니 제작 파이프라인을 지원할 '아티스트 중심' 생성형 AI 모델을 개발합니다. 이 다년간 협력은 어도비 MAX 컨퍼런스에서 발표되었습니다. 어도비는 디즈니에 자사 최신 기술을 조기에 제공하기로 했습니다.",
+      "reasonKo": "영상, 디자인, 엔터테인먼트 분야 진로를 고민하는 학생들에게 제작 현장에서 AI가 어떻게 쓰일지 보여 주는 기사입니다."
     }
   ]
 }
