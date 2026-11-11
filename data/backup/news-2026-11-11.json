@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2026-11-11T01:38:00.526Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "ChatGPT is getting verified AI ‘Business Agents’",
+      "descriptionEn": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "publishedAt": "2026-11-10T18:00:00.000Z",
+      "categories": [
+        "AI",
+        "News",
+        "OpenAI"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png",
+      "rank": 1,
+      "titleKo": "ChatGPT, 인증된 '비즈니스 에이전트'로 쇼핑 비교 돕는다",
+      "summaryKo": "ChatGPT에서 브랜드를 대표하는 인증된 '비즈니스 에이전트'와 대화할 수 있게 됩니다. 비교 쇼핑 같은 일을 도와주는 기능으로, 우선 미국의 적격 전자상거래 및 온라인 서비스 기업을 대상으로 베타 출시됩니다.",
+      "reasonKo": "일상에서 쓰는 AI 서비스가 쇼핑으로 어떻게 확장되는지 보여주며, 대학생이 소비 과정에서 AI를 어떻게 마주하게 될지 생각해볼 수 있습니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "The indie game community is in disarray over AI and Big Walk",
+      "descriptionEn": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult…",
+      "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "publishedAt": "2026-11-10T17:32:47.000Z",
+      "categories": [
+        "AI",
+        "Entertainment",
+        "Gaming",
+        "News"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png",
+      "rank": 2,
+      "titleKo": "생성형 AI 사용을 둘러싼 인디 게임 커뮤니티의 갈등",
+      "summaryKo": "Independent Games Festival의 일부 심사위원은 생성형 AI를 '어떤 형태로든' 사용한 게임에는 투표하지 않겠다는 성명을 발표했습니다. 이후 인디 히트작 Big Walk의 개발사는 개발 막바지에 AI를 '절제해서' 사용했다고 밝히는 성명을 냈습니다.",
+      "reasonKo": "창작물에 AI를 어디까지 허용할지에 대한 논쟁을 다루어, AI 윤리와 창작자 입장을 함께 생각해볼 좋은 사례입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "descriptionEn": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "categories": [
+        "AI",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg",
+      "rank": 3,
+      "titleKo": "구글, 에이전트 '스웜' 기능을 갖춘 Gemini 4 Carbon 공개",
+      "summaryKo": "구글이 최신 AI 모델 Gemini 4 Carbon을 일반 사용자에게 출시하고 있습니다. 이 모델은 2주 전 일부 '사이버보안 방어자' 집단에 먼저 공개되었으며, 구글은 Anthropic과 OpenAI의 최고 시스템과 경쟁할 수 있다고 주장합니다.",
+      "reasonKo": "대학생이 과제와 공부에 활용할 수 있는 최신 범용 AI 모델의 흐름을 파악하는 데 도움이 됩니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+      "descriptionEn": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+      "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+      "publishedAt": "2026-11-10T11:00:00.000Z",
+      "categories": [
+        "The Big Story"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aea5020a9094bad7a4244a9/master/pass/ai_security_abliterators.gif",
+      "rank": 4,
+      "titleKo": "AI 가드레일을 제거하는 '애블리터레이터'들",
+      "summaryKo": "'애블리터레이터'라고 불리는 사람들이 거절하지 않는 AI 모델들을 인터넷에 대량으로 공개하고 있습니다. 이런 모델은 사이버 방어를 강화하는 데 도움이 될 수도 있지만, 폭탄 제조 같은 위험한 목적에 쓰일 수도 있습니다.",
+      "reasonKo": "AI 안전장치의 장단점과 오용 위험을 함께 다루어, AI 윤리와 보안에 관심 있는 대학생에게 중요한 쟁점입니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "descriptionEn": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "publishedAt": "2026-11-10T05:01:00.000Z",
+      "categories": [
+        "Security",
+        "Security / Security News"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6af239fd5613664a71d65edb/master/pass/Security_V1-ezgif.com-video-to-gif-converter.gif",
+      "rank": 5,
+      "titleKo": "구글 딥마인드의 새 AI 도구, Signal 프로토콜의 안전성 증명",
+      "summaryKo": "딥마인드 연구진은 AI 도구를 활용해 널리 쓰이는 암호화 프로토콜 Signal이 의도대로 작동함을 형식적으로 검증했습니다. 연구진의 다음 목표는 '세상의 모든 소프트웨어'에 같은 검증을 적용하는 것입니다.",
+      "reasonKo": "AI가 보안과 암호 분야의 검증 작업에 쓰이는 사례로, 컴퓨터공학과 사이버보안 진로를 고민하는 학생에게 흥미로운 주제입니다."
+    }
+  ]
+}
