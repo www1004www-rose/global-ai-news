@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-11-12T02:38:01.026Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "WIRED",
+      "titleEn": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "descriptionEn": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "publishedAt": "2026-11-11T11:00:00.000Z",
+      "categories": [
+        "Business",
+        "Business / Artificial Intelligence"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/master/pass/Gemini-AI-Coached-Teen-Suicide-Business.jpg",
+      "rank": 1,
+      "titleKo": "13세 학생이 학교 노트북에서 AI에게 자살에 대해 물었지만 몇 주간 감지되지 않았다",
+      "summaryKo": "부모는 13세 딸이 학교 크롬북으로 Gemini를 사용해 자살을 계획했다고 주장한다. 그러나 학교의 모니터링 시스템은 거의 늦을 때까지 이를 알지 못했다. 청소년의 AI 사용과 학교 감시 체계의 한계를 다룬 기사다.",
+      "reasonKo": "대학생도 과제와 일상에서 AI 챗봇을 자주 쓰기 때문에, AI 안전장치와 학생 보호 문제를 자신의 일처럼 생각해 볼 수 있다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "The indie game community is in disarray over AI and Big Walk",
+      "descriptionEn": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult…",
+      "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "publishedAt": "2026-11-10T17:32:47.000Z",
+      "categories": [
+        "AI",
+        "Entertainment",
+        "Gaming",
+        "News"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png",
+      "rank": 2,
+      "titleKo": "인디 게임계, AI 사용을 두고 혼란에 빠지다",
+      "summaryKo": "독립게임 축제(IGF) 심사위원 일부는 생성형 AI를 '어떤 형태로든' 사용한 게임에 투표하지 않겠다는 성명을 냈다. 이후 인디 히트작 'Big Walk'의 개발사는 개발 막바지에 AI를 '드물게' 사용했다고 밝혔다.",
+      "reasonKo": "게임 개발이나 창작을 공부하는 대학생에게 창작물에 AI를 써도 되는지, 그 기준을 어떻게 정할지에 대한 고민을 보여준다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "United won’t let your AI agent book your flight",
+      "descriptionEn": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "publishedAt": "2026-11-11T21:54:21.000Z",
+      "categories": [
+        "AI",
+        "Meta",
+        "News",
+        "OpenAI",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg",
+      "rank": 3,
+      "titleKo": "유나이티드항공, 개인 AI 에이전트의 항공권 예약을 막기로 하다",
+      "summaryKo": "유나이티드항공은 개인 AI 비서가 자사에서 항공권을 예약하는 것을 허용하지 않겠다고 밝혔다. 회사는 프라이버시와 규제 문제를 이유로 들었다. 회사 측은 아직 많은 사람이 AI 에이전트로 항공편을 예약하려는 모습을 보지 못했다고 말했다.",
+      "reasonKo": "AI 에이전트가 사용자를 대신해 물건을 사고 예약하는 시대에 기업이 이를 어떻게 막는지 보여주며, 소비자 AI 서비스의 현실적 한계를 이해하는 데 도움이 된다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Anthropic has its own AI-powered office suite now",
+      "descriptionEn": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "publishedAt": "2026-11-10T17:30:00.000Z",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Report"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg",
+      "rank": 4,
+      "titleKo": "앤스로픽, 자체 AI 기반 오피스 제품군을 내놓다",
+      "summaryKo": "앤스로픽은 오랫동안 기업용과 코딩 도구로 알려져 왔으며, 이번에는 사무용 제품군 영역으로 사업을 넓히고 있다. 기사에 따르면 OpenAI, Meta 등 경쟁사들도 앤스로픽의 전략을 따라 하고 있다. 앤스로픽은 이번에 AI 기반 오피스 스위트를 선보였다.",
+      "reasonKo": "과제 작성, 문서 작업, 업무 도구가 AI 중심으로 바뀌는 흐름을 보여주어 대학생의 학습 방식과 진로 준비에 참고가 된다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "descriptionEn": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "categories": [
+        "AI",
+        "Google",
+        "Health",
+        "Science",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg",
+      "rank": 5,
+      "titleKo": "구글 딥마인드, DNA 변화가 세포에 미치는 영향을 분석하는 AI 모델 AlphaGenome 2 공개",
+      "summaryKo": "구글 딥마인드 연구진은 DNA 변화가 서로 다른 세포에 어떤 영향을 주는지 풀기 위한 새로운 AI 모델을 공개했다. 이 모델은 어려운 문제에 대해 과학자들에게 더 자세한 시각을 준다. 기사에 따르면 질병 원인을 찾고 새로운 치료법을 제시하는 단서가 될 수 있다.",
+      "reasonKo": "생명과학과 AI가 결합하는 연구 현장을 보여주어, 이공계 대학생이 AI 연구 분야의 진로를 생각해 보는 계기가 될 수 있다."
+    }
+  ]
+}
