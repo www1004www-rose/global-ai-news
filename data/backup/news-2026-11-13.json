@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2026-11-13T02:18:41.501Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "Google’s new Gemini model is better at understanding complicated questions",
+      "descriptionEn": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "publishedAt": "2026-11-12T21:55:32.000Z",
+      "categories": [
+        "AI",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg",
+      "rank": 1,
+      "titleKo": "구글 신규 Gemini 모델, 복잡한 질문 이해력 향상",
+      "summaryKo": "구글은 새 Gemini 4 Hydrogen 모델이 여러 부분으로 이루어진 질문, 이해하기 어려운 오타, 매우 구체적인 요청에 더 도움이 되는 답변을 제공한다고 밝혔습니다. 이 모델은 질문을 나눠 각 부분에 맞춰 답합니다. 검색, Gemini 앱 등에서 오늘부터 이용할 수 있습니다.",
+      "reasonKo": "과제 조사나 어려운 질문을 AI에 물어보는 대학생에게 실제 사용 경험과 직결되는 소식입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "No, AI agents did not discover a previously unknown Maya site",
+      "descriptionEn": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "publishedAt": "2026-11-12T19:42:40.000Z",
+      "categories": [
+        "AI",
+        "Science",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg",
+      "rank": 2,
+      "titleKo": "AI 에이전트가 미지의 마야 유적을 발견했다는 주장은 사실이 아니었다",
+      "summaryKo": "구글 연구자 Pietro Miotti는 AI 에이전트 팀을 활용해 멕시코에서 미지의 마야 유적을 찾았다고 주장했습니다. 하지만 해당 유적은 작년 학술지에 이미 발표된 곳이었습니다. 이 사건은 온라인에서 고고학자들의 비판을 받았습니다.",
+      "reasonKo": "AI가 내놓은 결과를 그대로 믿기 전에 출처와 사실 확인이 얼마나 중요한지 보여주는 사례입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "AI chatbots are recommending fake retail websites, study finds",
+      "descriptionEn": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "categories": [
+        "AI",
+        "Google",
+        "Online Shopping",
+        "OpenAI",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg",
+      "rank": 3,
+      "titleKo": "AI 챗봇, 가짜 쇼핑몰 사이트를 추천한다는 연구 결과",
+      "summaryKo": "쇼핑 상품을 조사하거나 구매처를 찾기 위해 AI 챗봇을 쓰는 사람들이 사칭 사이트 등 위험한 웹사이트로 안내될 수 있다는 연구가 나왔습니다. 연구는 IP 보호 업체 Podqi가 ChatGPT, Gemini, Perplexity에 쇼핑 관련 질문을 던져 진행했습니다. 이 결과는 The Verge에 독점 공유되었습니다.",
+      "reasonKo": "온라인 쇼핑과 일상에서 AI 검색을 많이 쓰는 대학생이 사기 피해를 피하려면 알아둘 필요가 있습니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "More game developers are starting to use generative AI",
+      "descriptionEn": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that…",
+      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "categories": [
+        "AI",
+        "Entertainment",
+        "Gaming",
+        "News"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg",
+      "rank": 4,
+      "titleKo": "게임 개발자들의 생성형 AI 사용이 늘고 있다",
+      "summaryKo": "GDC 페스티벌 오브 게이밍의 연례 업계 설문에 따르면, 응답자의 40%가 업무에서 생성형 AI 도구를 '업무의 일부로' 사용한다고 답했습니다. 작년 36%에서 증가한 수치입니다. 게임 개발자 중 사용률은 더 높게 나타났습니다.",
+      "reasonKo": "게임, 콘텐츠 제작 분야로 진로를 고민하는 학생에게 현업에서 AI가 어떻게 쓰이는지 보여주는 참고 자료가 됩니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "descriptionEn": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+      "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "publishedAt": "2026-11-12T18:05:41.000Z",
+      "categories": [
+        "Business / Artificial Intelligence"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/master/pass/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg",
+      "rank": 5,
+      "titleKo": "구글 딥마인드 직원들, 노조 결성을 위해 영국 정부에 도움 요청",
+      "summaryKo": "구글 딥마인드 직원들은 회사와의 초기 협상이 교착된 뒤, 경영진을 우회해 노조 결성을 추진하고 있습니다. 이를 위해 영국 정부에 문제를 가져가고 있습니다.",
+      "reasonKo": "AI 분야에서 일하는 전문가들의 노동 조건과 권리 문제를 보여주며, AI 업계 취업을 준비하는 학생이 생각해볼 만한 이슈입니다."
+    }
+  ]
+}
