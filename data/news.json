@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:55:41.367Z",
+  "generatedAt": "2026-11-15T01:27:31.726Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
@@ -17,9 +17,9 @@
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg",
       "rank": 1,
-      "titleKo": "구글 새 제미나이 모델, 복잡한 질문 이해력 향상",
-      "summaryKo": "구글은 새 모델 Gemini 4 Hydrogen이 여러 부분으로 된 질문, 알아보기 어려운 오타가 있는 질문, 매우 구체적인 요청에 더 도움이 되는 답을 준다고 밝혔습니다. 이 모델은 질문을 나눠 각 부분을 따로 다룰 수 있습니다. 검색, 제미나이 앱, 구글의 모든 등급에서 오늘부터 이용할 수 있습니다.",
-      "reasonKo": "과제나 복잡한 개념 질문을 AI에 물어보는 대학생에게 답변 품질이 어떻게 달라지는지 알려주는 기사입니다."
+      "titleKo": "구글 제미나이 신모델, 복잡한 질문 이해력 향상",
+      "summaryKo": "구글은 새 Gemini 4 Hydrogen 모델이 여러 부분으로 이루어진 질문, 알아보기 어려운 오타, 매우 구체적인 요청 같은 복잡한 질문에 더 도움이 되는 답을 준다고 밝혔습니다. 이 모델은 질문을 나눠 각 부분에 대해 답하며, 검색과 Gemini 앱 등에서 바로 이용할 수 있다고 소개됩니다.",
+      "reasonKo": "과제나 복잡한 자료 조사를 AI에 맡기는 학생이 많아, 질문을 어떻게 나눠 묻고 답을 어떻게 확인할지 생각해 볼 좋은 계기가 됩니다."
     },
     {
       "source": "The Verge",
@@ -35,9 +35,9 @@
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg",
       "rank": 2,
-      "titleKo": "Claude Duet 에이전트 사용기: 조금 예민하지만 의외로 유용해",
-      "summaryKo": "Claude Duet은 앤트로픽이 일반 소비자를 위해 내놓은 AI 에이전트입니다. 코드를 쓰지 않는 사람도 에이전트를 쓸 수 있다는 점을 보여주려는 최신 시도입니다. 리뷰어는 직접 써본 경험을 바탕으로 평가를 전합니다.",
-      "reasonKo": "코드를 몰라도 쓸 수 있는 AI 에이전트가 실제로 도움이 되는지 궁금한 대학생에게 실사용 관점의 참고가 됩니다."
+      "titleKo": "클로드 듀엣 에이전트 직접 써보니: 조금 예민하지만 의외로 유용해",
+      "summaryKo": "클로드 듀엣은 Anthropic이 일반 소비자를 위해 내놓은 AI 에이전트로, 코드를 쓰지 않는 사람도 에이전트를 쓸 수 있는지 보여주려는 최신 시도라고 소개됩니다. 필자는 이 제품을 직접 테스트했고, 리뷰를 쓰는 과정에서도 도움을 제안받았다고 전합니다.",
+      "reasonKo": "학생들이 일상과 공부에서 쓸 수 있는 AI 에이전트의 실제 쓸모와 한계를 체험기 형식으로 확인할 수 있습니다."
     },
     {
       "source": "The Verge",
@@ -53,43 +53,45 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg",
       "rank": 3,
       "titleKo": "AI 에이전트가 미발견 마야 유적을 찾았다는 주장은 사실이 아니었다",
-      "summaryKo": "구글 연구원 피에트로 미오티는 AI 에이전트 팀을 활용해 멕시코에서 미지도 가능성이 있는 마야 유적을 발견했다고 주장했습니다. 문제는 그 유적이 이미 작년 학술지에 발표되어 알려져 있었다는 점입니다. 이 일은 고고학자들의 온라인 비판을 불러왔습니다.",
-      "reasonKo": "AI 결과를 그대로 믿기 전에 검증이 얼마나 중요한지 보여주므로, 연구와 과제에서 AI를 쓰는 대학생에게 교훈이 됩니다."
+      "summaryKo": "구글 연구원 피에트로 미오티는 AI 에이전트 팀을 이용해 멕시코에서 아직 지도에 없는 마야 유적을 발견했다고 주장했습니다. 하지만 해당 유적은 이미 작년 학술지에 발표된 곳이었고, 이 일은 고고학자들 사이에서 온라인 비판을 받았다고 소개됩니다.",
+      "reasonKo": "AI가 낸 연구 결과를 그대로 믿기 전에 출처와 선행 연구를 확인해야 한다는 점을 보여줘, 논문과 과제를 쓰는 대학생에게 중요한 교훈이 됩니다."
     },
     {
       "source": "The Verge",
-      "titleEn": "AI chatbots are recommending fake retail websites, study finds",
-      "descriptionEn": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "titleEn": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "descriptionEn": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on…",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
       "categories": [
         "AI",
-        "Google",
-        "Online Shopping",
+        "Anthropic",
+        "Decoder",
         "OpenAI",
+        "Podcasts",
+        "Policy",
         "Tech"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg",
       "rank": 4,
-      "titleKo": "AI 챗봇이 가짜 쇼핑몰을 추천할 수 있다는 연구",
-      "summaryKo": "AI 챗봇으로 제품을 찾거나 구매처를 알아보는 쇼핑객이 가짜 사이트나 위험한 웹사이트로 안내될 수 있다는 연구 결과가 나왔습니다. 이 연구는 IP 보호 업체 Podqi가 수행했으며, ChatGPT, 제미나이, 퍼플렉시티에 쇼핑 관련 질문을 던졌습니다. 연구 결과는 The Verge에 단독으로 공유되었습니다.",
-      "reasonKo": "온라인 쇼핑에 AI를 자주 쓰는 대학생이 사기 사이트를 조심해야 한다는 점을 알려주는 실용적인 기사입니다."
+      "titleKo": "오픈AI 이사회에서 샘 올트먼을 해임한 인물 \"AI CEO는 여전히 믿을 수 없다\"",
+      "summaryKo": "헬렌 토너는 조지타운대 신흥 안보·기술 연구센터(CSET)의 소장이자 AI 안전·정책 분야에서 잘 알려진 인물로 소개됩니다. 이 기사는 AI가 실생활에 들어오는 주제를 다루는 시리즈의 두 번째 편이며, 그는 오픈AI 이사회에서 샘 올트먼을 해임한 인물로 언급됩니다. 제목에 따르면 그는 AI 기업 CEO를 여전히 신뢰하기 어렵다고 말합니다.",
+      "reasonKo": "AI 기업의 지배구조와 책임, 정책 문제를 생각해 볼 기회를 주어, AI 윤리와 정책에 관심 있는 학생에게 의미가 있습니다."
     },
     {
       "source": "WIRED",
-      "titleEn": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "descriptionEn": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-      "publishedAt": "2026-11-13T11:45:00.000Z",
+      "titleEn": "Beware the New AI-Fueled Ransomware Boom",
+      "descriptionEn": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "publishedAt": "2026-11-14T13:00:00.000Z",
       "categories": [
-        "Culture",
-        "Culture / TV"
+        "Security",
+        "Security / Cyberattacks and Hacks"
       ],
-      "imageUrl": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/master/pass/Startup-Betting-on-AI-Microdramas-Culture.jpg",
+      "imageUrl": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png",
       "rank": 5,
-      "titleKo": "AI 마이크로드라마로 할리우드의 흑인 이야기를 늘리려는 스타트업",
-      "summaryKo": "스타트업 Mansa는 AI 마이크로드라마가 흑인 관객이 원하는 것을 보여주는 시범 작품이 될 수 있다고 주장합니다. 반면 비판하는 쪽은 이 스튜디오가 가치를 팔아넘기고 있다고 말합니다. 생성형 AI가 영상 콘텐츠 제작에 들어가는 현실을 보여주는 기사입니다.",
-      "reasonKo": "영상과 문화 콘텐츠 분야 진로를 생각하는 대학생에게 AI가 창작 산업을 어떻게 바꾸는지와 그에 따른 논쟁을 보여줍니다."
+      "titleKo": "AI 도구를 쓴 랜섬웨어 확산 주의보",
+      "summaryKo": "완전 자동화된 랜섬웨어는 아직 등장하지 않았지만, 정교하지 않은 공격자들도 AI 도구를 사용해 큰 피해를 일으키고 있다고 소개됩니다.",
+      "reasonKo": "AI가 해킹의 진입 장벽을 낮출 수 있다는 점을 보여줘, 학생들이 개인 계정과 파일을 보호하는 습관을 점검하게 만듭니다."
     }
   ]
 }
