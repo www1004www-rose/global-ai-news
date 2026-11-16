@@ -1,26 +1,8 @@
 {
-  "generatedAt": "2026-11-15T01:27:31.726Z",
+  "generatedAt": "2026-11-16T01:30:47.872Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
-    {
-      "source": "The Verge",
-      "titleEn": "Google’s new Gemini model is better at understanding complicated questions",
-      "descriptionEn": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "publishedAt": "2026-11-12T21:55:32.000Z",
-      "categories": [
-        "AI",
-        "Google",
-        "News",
-        "Tech"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg",
-      "rank": 1,
-      "titleKo": "구글 제미나이 신모델, 복잡한 질문 이해력 향상",
-      "summaryKo": "구글은 새 Gemini 4 Hydrogen 모델이 여러 부분으로 이루어진 질문, 알아보기 어려운 오타, 매우 구체적인 요청 같은 복잡한 질문에 더 도움이 되는 답을 준다고 밝혔습니다. 이 모델은 질문을 나눠 각 부분에 대해 답하며, 검색과 Gemini 앱 등에서 바로 이용할 수 있다고 소개됩니다.",
-      "reasonKo": "과제나 복잡한 자료 조사를 AI에 맡기는 학생이 많아, 질문을 어떻게 나눠 묻고 답을 어떻게 확인할지 생각해 볼 좋은 계기가 됩니다."
-    },
     {
       "source": "The Verge",
       "titleEn": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
@@ -34,27 +16,44 @@
         "Tech"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg",
+      "rank": 1,
+      "titleKo": "Anthropic의 소비자용 AI 에이전트 Claude Duet, 조금 예민하지만 의외로 도움이 된다",
+      "summaryKo": "Anthropic이 일반 소비자를 위해 내놓은 AI 에이전트 Claude Duet을 직접 사용해 본 체험기입니다. 필자는 보통 제품 테스트 후 글쓰기를 도와주겠다는 제안을 받지 않지만 Duet은 그렇게 한다고 전합니다. 코딩을 하지 않는 사람도 에이전트를 쓸 수 있는지를 가늠해 볼 수 있는 기사입니다.",
+      "reasonKo": "과제나 일상에서 쓸 수 있는 AI 에이전트가 실제로 어느 정도 쓸만한지 대학생이 판단하는 데 도움이 됩니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "AI DJs Completely Kill My Groove",
+      "descriptionEn": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "publishedAt": "2026-11-15T12:00:00.000Z",
+      "categories": [
+        "Gear",
+        "Gear / Gear News and Events"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
       "rank": 2,
-      "titleKo": "클로드 듀엣 에이전트 직접 써보니: 조금 예민하지만 의외로 유용해",
-      "summaryKo": "클로드 듀엣은 Anthropic이 일반 소비자를 위해 내놓은 AI 에이전트로, 코드를 쓰지 않는 사람도 에이전트를 쓸 수 있는지 보여주려는 최신 시도라고 소개됩니다. 필자는 이 제품을 직접 테스트했고, 리뷰를 쓰는 과정에서도 도움을 제안받았다고 전합니다.",
-      "reasonKo": "학생들이 일상과 공부에서 쓸 수 있는 AI 에이전트의 실제 쓸모와 한계를 체험기 형식으로 확인할 수 있습니다."
+      "titleKo": "AI DJ가 플레이리스트 분위기를 망친다",
+      "summaryKo": "YouTube Music과 Spotify는 AI 진행자가 사용자의 플레이리스트를 큐레이션하도록 하고 있습니다. 그러나 어색한 잡담과 엉터리 곡 정보가 음악 감상의 분위기를 망친다고 지적합니다.",
+      "reasonKo": "매일 쓰는 음악 앱에 들어온 AI 기능이 실제 사용 경험에서 어떤 한계를 보이는지 생각해 볼 수 있습니다."
     },
     {
       "source": "The Verge",
-      "titleEn": "No, AI agents did not discover a previously unknown Maya site",
-      "descriptionEn": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "publishedAt": "2026-11-12T19:42:40.000Z",
+      "titleEn": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "descriptionEn": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical…",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "publishedAt": "2026-11-16T01:26:56.000Z",
       "categories": [
         "AI",
-        "Science",
+        "Apple",
+        "News",
         "Tech"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg",
       "rank": 3,
-      "titleKo": "AI 에이전트가 미발견 마야 유적을 찾았다는 주장은 사실이 아니었다",
-      "summaryKo": "구글 연구원 피에트로 미오티는 AI 에이전트 팀을 이용해 멕시코에서 아직 지도에 없는 마야 유적을 발견했다고 주장했습니다. 하지만 해당 유적은 이미 작년 학술지에 발표된 곳이었고, 이 일은 고고학자들 사이에서 온라인 비판을 받았다고 소개됩니다.",
-      "reasonKo": "AI가 낸 연구 결과를 그대로 믿기 전에 출처와 선행 연구를 확인해야 한다는 점을 보여줘, 논문과 과제를 쓰는 대학생에게 중요한 교훈이 됩니다."
+      "titleKo": "Apple, AI 건강 도구의 효과를 높이기 위한 새로운 연구 발표",
+      "summaryKo": "Apple은 사람들이 대화형 AI 건강 도구와 어떻게 상호작용하는지, 그리고 그 응답이 실제로 얼마나 유용한지 이해하기 위한 연구를 발표했습니다. 이 연구는 의료 전문가가 쓰는 임상 AI 플랫폼 OpenEvidence와 함께 진행하는 Apple Health AI Usage Study입니다.",
+      "reasonKo": "건강 관련 질문에 AI를 쓰는 경우가 많아지는 만큼, AI 답변의 신뢰성과 유용성이 어떻게 검증되는지 알아볼 만한 기사입니다."
     },
     {
       "source": "The Verge",
@@ -73,9 +72,9 @@
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg",
       "rank": 4,
-      "titleKo": "오픈AI 이사회에서 샘 올트먼을 해임한 인물 \"AI CEO는 여전히 믿을 수 없다\"",
-      "summaryKo": "헬렌 토너는 조지타운대 신흥 안보·기술 연구센터(CSET)의 소장이자 AI 안전·정책 분야에서 잘 알려진 인물로 소개됩니다. 이 기사는 AI가 실생활에 들어오는 주제를 다루는 시리즈의 두 번째 편이며, 그는 오픈AI 이사회에서 샘 올트먼을 해임한 인물로 언급됩니다. 제목에 따르면 그는 AI 기업 CEO를 여전히 신뢰하기 어렵다고 말합니다.",
-      "reasonKo": "AI 기업의 지배구조와 책임, 정책 문제를 생각해 볼 기회를 주어, AI 윤리와 정책에 관심 있는 학생에게 의미가 있습니다."
+      "titleKo": "샘 올트먼을 해임한 OpenAI 이사 “AI CEO를 여전히 믿을 수 없다”",
+      "summaryKo": "Georgetown 대학교 CSET의 헬렌 토너 전무이사와 나눈 대화를 담은 팟캐스트입니다. 토너는 AI 안전과 정책 분야에서 잘 알려진 인물이며, 한때 OpenAI 이사회에 있었던 것으로 소개됩니다. 이 에피소드는 실생활 속 AI를 다루는 시리즈의 두 번째 편입니다.",
+      "reasonKo": "AI 기업 지도부에 대한 신뢰와 거버넌스 문제는 AI 윤리와 정책을 공부하는 대학생에게 중요한 논점입니다."
     },
     {
       "source": "WIRED",
@@ -89,9 +88,9 @@
       ],
       "imageUrl": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png",
       "rank": 5,
-      "titleKo": "AI 도구를 쓴 랜섬웨어 확산 주의보",
-      "summaryKo": "완전 자동화된 랜섬웨어는 아직 등장하지 않았지만, 정교하지 않은 공격자들도 AI 도구를 사용해 큰 피해를 일으키고 있다고 소개됩니다.",
-      "reasonKo": "AI가 해킹의 진입 장벽을 낮출 수 있다는 점을 보여줘, 학생들이 개인 계정과 파일을 보호하는 습관을 점검하게 만듭니다."
+      "titleKo": "AI를 활용한 랜섬웨어 확산 경고",
+      "summaryKo": "완전 자동화된 랜섬웨어는 아직 등장하지 않았지만, 기술이 정교하지 않은 공격자들도 AI 도구를 사용해 피해를 키우고 있다고 전합니다. 기사 소개문은 이러한 현상을 짧게 경고하고 있습니다.",
+      "reasonKo": "AI가 사이버 공격의 진입 장벽을 낮추고 있다는 점을 알면, 대학생도 개인정보와 계정 보안을 더 신경 쓰게 됩니다."
     }
   ]
 }

@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-11-16T01:30:47.872Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "descriptionEn": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "categories": [
+        "AI",
+        "Hands-on",
+        "Reviews",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg",
+      "rank": 1,
+      "titleKo": "Anthropic의 소비자용 AI 에이전트 Claude Duet, 조금 예민하지만 의외로 도움이 된다",
+      "summaryKo": "Anthropic이 일반 소비자를 위해 내놓은 AI 에이전트 Claude Duet을 직접 사용해 본 체험기입니다. 필자는 보통 제품 테스트 후 글쓰기를 도와주겠다는 제안을 받지 않지만 Duet은 그렇게 한다고 전합니다. 코딩을 하지 않는 사람도 에이전트를 쓸 수 있는지를 가늠해 볼 수 있는 기사입니다.",
+      "reasonKo": "과제나 일상에서 쓸 수 있는 AI 에이전트가 실제로 어느 정도 쓸만한지 대학생이 판단하는 데 도움이 됩니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "AI DJs Completely Kill My Groove",
+      "descriptionEn": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "publishedAt": "2026-11-15T12:00:00.000Z",
+      "categories": [
+        "Gear",
+        "Gear / Gear News and Events"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
+      "rank": 2,
+      "titleKo": "AI DJ가 플레이리스트 분위기를 망친다",
+      "summaryKo": "YouTube Music과 Spotify는 AI 진행자가 사용자의 플레이리스트를 큐레이션하도록 하고 있습니다. 그러나 어색한 잡담과 엉터리 곡 정보가 음악 감상의 분위기를 망친다고 지적합니다.",
+      "reasonKo": "매일 쓰는 음악 앱에 들어온 AI 기능이 실제 사용 경험에서 어떤 한계를 보이는지 생각해 볼 수 있습니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "descriptionEn": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical…",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "publishedAt": "2026-11-16T01:26:56.000Z",
+      "categories": [
+        "AI",
+        "Apple",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg",
+      "rank": 3,
+      "titleKo": "Apple, AI 건강 도구의 효과를 높이기 위한 새로운 연구 발표",
+      "summaryKo": "Apple은 사람들이 대화형 AI 건강 도구와 어떻게 상호작용하는지, 그리고 그 응답이 실제로 얼마나 유용한지 이해하기 위한 연구를 발표했습니다. 이 연구는 의료 전문가가 쓰는 임상 AI 플랫폼 OpenEvidence와 함께 진행하는 Apple Health AI Usage Study입니다.",
+      "reasonKo": "건강 관련 질문에 AI를 쓰는 경우가 많아지는 만큼, AI 답변의 신뢰성과 유용성이 어떻게 검증되는지 알아볼 만한 기사입니다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "descriptionEn": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on…",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Decoder",
+        "OpenAI",
+        "Podcasts",
+        "Policy",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg",
+      "rank": 4,
+      "titleKo": "샘 올트먼을 해임한 OpenAI 이사 “AI CEO를 여전히 믿을 수 없다”",
+      "summaryKo": "Georgetown 대학교 CSET의 헬렌 토너 전무이사와 나눈 대화를 담은 팟캐스트입니다. 토너는 AI 안전과 정책 분야에서 잘 알려진 인물이며, 한때 OpenAI 이사회에 있었던 것으로 소개됩니다. 이 에피소드는 실생활 속 AI를 다루는 시리즈의 두 번째 편입니다.",
+      "reasonKo": "AI 기업 지도부에 대한 신뢰와 거버넌스 문제는 AI 윤리와 정책을 공부하는 대학생에게 중요한 논점입니다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Beware the New AI-Fueled Ransomware Boom",
+      "descriptionEn": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "publishedAt": "2026-11-14T13:00:00.000Z",
+      "categories": [
+        "Security",
+        "Security / Cyberattacks and Hacks"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png",
+      "rank": 5,
+      "titleKo": "AI를 활용한 랜섬웨어 확산 경고",
+      "summaryKo": "완전 자동화된 랜섬웨어는 아직 등장하지 않았지만, 기술이 정교하지 않은 공격자들도 AI 도구를 사용해 피해를 키우고 있다고 전합니다. 기사 소개문은 이러한 현상을 짧게 경고하고 있습니다.",
+      "reasonKo": "AI가 사이버 공격의 진입 장벽을 낮추고 있다는 점을 알면, 대학생도 개인정보와 계정 보안을 더 신경 쓰게 됩니다."
+    }
+  ]
+}
