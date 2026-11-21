@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2026-11-21T02:57:07.284Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "descriptionEn": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "publishedAt": "2026-11-20T16:34:13.000Z",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "News",
+        "Science"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg",
+      "rank": 1,
+      "titleKo": "Anthropic 수학자, Claude 도움으로 리만 가설 증명했다고 주장",
+      "summaryKo": "Anthropic의 수학자 Levent Alpöge는 Claude의 도움을 받아 수십 년간 세계 최고 수학자들도 풀지 못한 리만 가설을 증명했다고 주장했다. 소개문에 따르면 아직 검증되지 않은 주장이며, 검증된다면 수학 분야에서 AI가 이룬 또 하나의 큰 성과가 된다.",
+      "reasonKo": "AI가 연구와 수학 같은 고난도 학문에 어디까지 쓰일 수 있는지 보여주는 사례라, 이공계 대학생이 AI 활용의 가능성과 한계를 함께 생각해 볼 수 있다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "descriptionEn": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "publishedAt": "2026-11-20T12:30:47.000Z",
+      "categories": [
+        "AI",
+        "Android",
+        "Apple",
+        "Google",
+        "iOS",
+        "News",
+        "Security",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png",
+      "rank": 2,
+      "titleKo": "Signal, Gemini·Siri 같은 AI가 화면을 읽지 못하도록 차단",
+      "summaryKo": "Signal은 AI 에이전트가 사용자의 메시지와 데이터를 읽는 것을 막기 위해 Android와 iOS에서 스크린샷 기능을 제한하고 있다. 소개문에 따르면 운영체제에 내장된 AI가 화면 정보를 분석하는 기능이 Signal이 개인정보를 스스로 보장하는 능력을 해친다고 보고 있다.",
+      "reasonKo": "대학생이 매일 쓰는 메신저와 스마트폰 AI 기능이 개인정보와 충돌할 수 있다는 점을 보여줘, 디지털 개인정보 보호를 생각하게 한다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Gemini on Mac can now use your computer",
+      "descriptionEn": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will…",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "publishedAt": "2026-11-19T18:21:13.000Z",
+      "categories": [
+        "AI",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg",
+      "rank": 3,
+      "titleKo": "Mac용 Gemini, 이제 컴퓨터를 직접 조작할 수 있어",
+      "summaryKo": "Google의 macOS용 Gemini 앱에 컴퓨터 사용 기능이 추가되어, 로컬 파일, 데스크톱 앱, 웹에 걸친 여러 단계 작업을 도울 수 있다고 한다. 회사는 워크플로 단축, 양식 작성, 프레젠테이션 제작, 판매 물품 등록 등에 유용할 것이라고 설명했다.",
+      "reasonKo": "과제 발표 자료 만들기나 서류 작성처럼 학생들의 실제 작업에 AI가 어떻게 들어오는지 보여주는 기사다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "descriptionEn": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "publishedAt": "2026-11-20T07:00:00.000Z",
+      "categories": [
+        "Business",
+        "Business / Artificial Intelligence"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
+      "rank": 4,
+      "titleKo": "고등학교를 중퇴한 16세 소년, AI 미사일 스타트업 창업",
+      "summaryKo": "Henrijs Dandzbergs는 고등학교를 그만두고 스타트업 액셀러레이터 Y Combinator에 합류했다. 그는 새로운 방식의 미사일로 미국과 동맹국 군대를 위해 '살상 비용(cost per kill)'을 최대한 효율적으로 낮추는 것을 목표로 하고 있다.",
+      "reasonKo": "어린 창업가의 진로 선택과 AI의 군사적 활용이라는 윤리적 쟁점을 함께 보여줘, 진로와 기술 윤리를 고민하는 대학생에게 의미가 있다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "descriptionEn": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "categories": [
+        "Culture",
+        "Culture / Digital Culture"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
+      "rank": 5,
+      "titleKo": "Meta의 AI 어시스턴트 Muse, 인스타그램에서 장난스러운 '맞팔 확인' 확산",
+      "summaryKo": "Meta의 AI 어시스턴트는 인스타그램에서 나를 맞팔하지 않는 사용자를 추적해 언팔로우할 수 있다. 일부 사람들은 이 기능을 적극적으로 활용하며 소소한 말다툼 같은 분위기를 만들고 있다.",
+      "reasonKo": "SNS를 일상적으로 쓰는 대학생들이 AI 비서가 개인 관계와 온라인 문화에 어떻게 개입하는지 가볍게 살펴볼 수 있는 기사다."
+    }
+  ]
+}

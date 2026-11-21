@@ -1,102 +1,97 @@
 {
-  "generatedAt": "2026-11-20T02:46:53.972Z",
+  "generatedAt": "2026-11-21T02:57:07.284Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
     {
       "source": "The Verge",
-      "titleEn": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "descriptionEn": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "publishedAt": "2026-11-19T15:16:45.000Z",
+      "titleEn": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "descriptionEn": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "publishedAt": "2026-11-20T16:34:13.000Z",
       "categories": [
         "AI",
+        "Anthropic",
         "News",
-        "OpenAI",
-        "Tech"
+        "Science"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg",
       "rank": 1,
-      "titleKo": "ChatGPT, 말하는 동시에 받아쓰는 라이브 딕테이션 기능 추가",
-      "summaryKo": "ChatGPT가 녹음이 끝날 때까지 기다리지 않고 말하는 동시에 음성을 텍스트로 옮기는 라이브 딕테이션 기능을 내놓았습니다. 웹, 데스크톱 앱, iOS와 Android 앱의 모든 요금제에서 전 세계적으로 순차 제공된다고 소개됩니다. 대화 중 탭하거나 조작하는 방법도 함께 안내됩니다.",
-      "reasonKo": "과제 초안이나 메모를 말로 빠르게 기록하고 싶은 대학생에게 일상에서 바로 쓸 수 있는 AI 기능입니다."
+      "titleKo": "Anthropic 수학자, Claude 도움으로 리만 가설 증명했다고 주장",
+      "summaryKo": "Anthropic의 수학자 Levent Alpöge는 Claude의 도움을 받아 수십 년간 세계 최고 수학자들도 풀지 못한 리만 가설을 증명했다고 주장했다. 소개문에 따르면 아직 검증되지 않은 주장이며, 검증된다면 수학 분야에서 AI가 이룬 또 하나의 큰 성과가 된다.",
+      "reasonKo": "AI가 연구와 수학 같은 고난도 학문에 어디까지 쓰일 수 있는지 보여주는 사례라, 이공계 대학생이 AI 활용의 가능성과 한계를 함께 생각해 볼 수 있다."
     },
     {
       "source": "The Verge",
-      "titleEn": "I let Apple’s always-listening AI summarize my life for two weeks",
-      "descriptionEn": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can…",
-      "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "publishedAt": "2026-11-19T13:00:00.000Z",
+      "titleEn": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "descriptionEn": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "publishedAt": "2026-11-20T12:30:47.000Z",
       "categories": [
         "AI",
+        "Android",
         "Apple",
-        "Gadgets",
-        "Hands-on",
-        "Reviews",
-        "Smartwatch",
-        "Smartwatch Reviews",
-        "Tech",
-        "Wearable"
+        "Google",
+        "iOS",
+        "News",
+        "Security",
+        "Tech"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png",
       "rank": 2,
-      "titleKo": "애플의 상시 청취 AI가 2주 동안 내 일상을 요약하게 해봤다",
-      "summaryKo": "기자는 한 달 남짓 Amazon Bee Frontier와 Apple Watch Ultra 4의 Siri Recap을 시험했습니다. 두 기기 모두 웨어러블이 주변 대화를 항상 듣고 AI로 요약해 준다는 점이 특징입니다. 이 기능이 과연 가치가 있었는지를 기자가 되묻는 후기입니다.",
-      "reasonKo": "대화를 몰래 듣고 기록하는 기기가 늘어나면서 생기는 개인정보와 사생활 문제를 대학생이 직접 생각해 볼 수 있는 기사입니다."
+      "titleKo": "Signal, Gemini·Siri 같은 AI가 화면을 읽지 못하도록 차단",
+      "summaryKo": "Signal은 AI 에이전트가 사용자의 메시지와 데이터를 읽는 것을 막기 위해 Android와 iOS에서 스크린샷 기능을 제한하고 있다. 소개문에 따르면 운영체제에 내장된 AI가 화면 정보를 분석하는 기능이 Signal이 개인정보를 스스로 보장하는 능력을 해친다고 보고 있다.",
+      "reasonKo": "대학생이 매일 쓰는 메신저와 스마트폰 AI 기능이 개인정보와 충돌할 수 있다는 점을 보여줘, 디지털 개인정보 보호를 생각하게 한다."
     },
     {
       "source": "The Verge",
-      "titleEn": "Canva adds an AI ‘off’ button",
-      "descriptionEn": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "publishedAt": "2026-11-19T12:30:00.000Z",
+      "titleEn": "Gemini on Mac can now use your computer",
+      "descriptionEn": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will…",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "publishedAt": "2026-11-19T18:21:13.000Z",
       "categories": [
         "AI",
-        "Apps",
-        "Creators",
+        "Google",
         "News",
         "Tech"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg",
       "rank": 3,
-      "titleKo": "Canva, 생성형 AI 기능을 끌 수 있는 '끄기' 버튼 추가",
-      "summaryKo": "Canva가 이제 생성형 AI 기능을 끌 수 있도록 바꿨습니다. 자동으로 사진을 확장하는 Magic Expand 같은 AI 도구와 챗봇으로 이미지를 만드는 기능을 비활성화할 수 있습니다. 다만 이 토글이 AI가 들어간 모든 기능을 끄는 것은 아닙니다.",
-      "reasonKo": "디자인 과제나 발표 자료를 만들 때 AI 사용 여부를 스스로 고를 수 있다는 점에서, 대학생의 AI 활용 방식과 선택권을 생각해볼 만한 기사입니다."
-    },
-    {
-      "source": "The Verge",
-      "titleEn": "Apple is hiring engineers to build its own AI agent",
-      "descriptionEn": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.…",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "publishedAt": "2026-11-19T22:31:41.000Z",
-      "categories": [
-        "AI",
-        "Apple",
-        "Apple Rumors",
-        "News",
-        "Tech"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg",
-      "rank": 4,
-      "titleKo": "애플, 자체 AI 에이전트 개발을 위해 엔지니어 채용 중",
-      "summaryKo": "애플이 웹 검색, 여러 앱을 넘나드는 작업, 코드 작성, 서비스 호출 등 다양한 작업을 대신하는 자체 AI 에이전트를 개발하고 있다는 소식입니다. Bloomberg가 확인한 채용 공고에 따르면 agentic AI 어시스턴트 제작을 이끌 엔지니어를 찾고 있습니다. 이 기사는 채용 공고를 근거로 전합니다.",
-      "reasonKo": "AI 에이전트가 어떤 역할을 맡고 어떤 인재를 찾는지 보여주어, AI 관련 개발 직무를 준비하는 대학생의 진로 고민에 참고가 됩니다."
+      "titleKo": "Mac용 Gemini, 이제 컴퓨터를 직접 조작할 수 있어",
+      "summaryKo": "Google의 macOS용 Gemini 앱에 컴퓨터 사용 기능이 추가되어, 로컬 파일, 데스크톱 앱, 웹에 걸친 여러 단계 작업을 도울 수 있다고 한다. 회사는 워크플로 단축, 양식 작성, 프레젠테이션 제작, 판매 물품 등록 등에 유용할 것이라고 설명했다.",
+      "reasonKo": "과제 발표 자료 만들기나 서류 작성처럼 학생들의 실제 작업에 AI가 어떻게 들어오는지 보여주는 기사다."
     },
     {
       "source": "WIRED",
-      "titleEn": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
-      "descriptionEn": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, including emails, texts, and credit reports.",
-      "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
-      "publishedAt": "2026-11-18T19:00:00.000Z",
+      "titleEn": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "descriptionEn": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "publishedAt": "2026-11-20T07:00:00.000Z",
       "categories": [
-        "Security",
-        "Security / Cyberattacks and Hacks"
+        "Business",
+        "Business / Artificial Intelligence"
       ],
-      "imageUrl": "https://media.wired.com/photos/6af4e24b10b23929948ce140/master/pass/Security_Breach%20of%20AI%20Debt%20Collection%20Call%20Center%20Exposes%20315,000%20Calls%20and%20Much%20More_v1.jpg",
+      "imageUrl": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
+      "rank": 4,
+      "titleKo": "고등학교를 중퇴한 16세 소년, AI 미사일 스타트업 창업",
+      "summaryKo": "Henrijs Dandzbergs는 고등학교를 그만두고 스타트업 액셀러레이터 Y Combinator에 합류했다. 그는 새로운 방식의 미사일로 미국과 동맹국 군대를 위해 '살상 비용(cost per kill)'을 최대한 효율적으로 낮추는 것을 목표로 하고 있다.",
+      "reasonKo": "어린 창업가의 진로 선택과 AI의 군사적 활용이라는 윤리적 쟁점을 함께 보여줘, 진로와 기술 윤리를 고민하는 대학생에게 의미가 있다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "descriptionEn": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "categories": [
+        "Culture",
+        "Culture / Digital Culture"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
       "rank": 5,
-      "titleKo": "AI 채권추심 서비스의 보안 취약점으로 660만 개 계정 노출",
-      "summaryKo": "AI 채권추심 서비스 CreditNirvana 플랫폼에서 심각한 취약점 두 가지가 발견되었습니다. 공격자가 이메일, 문자, 신용 보고서 등 민감한 정보에 접근할 수 있었을 것이라고 전합니다. 기사 제목에 따르면 660만 개 계정과 31만 5천 건의 통화 녹음이 노출되었습니다.",
-      "reasonKo": "AI 서비스를 운영하는 기업이 개인정보를 얼마나 허술하게 다루는지 보여주어, 데이터 보호와 보안 의식을 생각하게 하는 사례입니다."
+      "titleKo": "Meta의 AI 어시스턴트 Muse, 인스타그램에서 장난스러운 '맞팔 확인' 확산",
+      "summaryKo": "Meta의 AI 어시스턴트는 인스타그램에서 나를 맞팔하지 않는 사용자를 추적해 언팔로우할 수 있다. 일부 사람들은 이 기능을 적극적으로 활용하며 소소한 말다툼 같은 분위기를 만들고 있다.",
+      "reasonKo": "SNS를 일상적으로 쓰는 대학생들이 AI 비서가 개인 관계와 온라인 문화에 어떻게 개입하는지 가볍게 살펴볼 수 있는 기사다."
     }
   ]
 }
