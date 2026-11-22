@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-11-22T01:50:14.265Z",
+  "mode": "ai",
+  "model": "claude-haiku-5-5",
+  "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "The UN fails to agree on rules regulating ‘killer robots’",
+      "descriptionEn": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the…",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "publishedAt": "2026-11-21T20:03:37.000Z",
+      "categories": [
+        "AI",
+        "News",
+        "Policy",
+        "Politics",
+        "Robot",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg",
+      "rank": 1,
+      "titleKo": "UN, '킬러 로봇' 규제 합의에 실패하다",
+      "summaryKo": "제네바에서 열린 UN 외교관 회의의 주요 의제는 자율무기, 일명 '킬러 로봇'에 대한 규칙 마련이었다. 일주일간의 협상 끝에 대표단은 '옵션 논의를 시작하기로' 하는 데 그쳤다.",
+      "reasonKo": "AI 무기와 윤리 문제를 국제 정치 차원에서 어떻게 규제할지 살펴볼 수 있어, AI 윤리에 관심 있는 대학생에게 의미가 있다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "descriptionEn": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "publishedAt": "2026-11-20T16:34:13.000Z",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "News",
+        "Science"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg",
+      "rank": 2,
+      "titleKo": "Anthropic 수학자, Claude 도움으로 리만 가설 증명 주장",
+      "summaryKo": "Anthropic의 수학자 레벤트 알퍼게는 Claude의 도움으로 수십 년간 세계 최고의 수학자들도 풀지 못한 리만 가설을 증명했다고 주장했다. 검증된다면 수학 분야에서 AI가 거둔 또 하나의 성과가 된다.",
+      "reasonKo": "AI가 연구와 학습 방식을 어떻게 바꿀 수 있는지 보여주는 사례로, 수학이나 이공계를 전공하는 학생에게 흥미로운 기사다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "descriptionEn": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "publishedAt": "2026-11-20T12:30:47.000Z",
+      "categories": [
+        "AI",
+        "Android",
+        "Apple",
+        "Google",
+        "iOS",
+        "News",
+        "Security",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png",
+      "rank": 3,
+      "titleKo": "Signal, 화면을 읽는 Gemini·Siri AI 차단에 나서다",
+      "summaryKo": "Signal은 AI 에이전트가 사용자의 메시지와 데이터를 읽지 못하도록 안드로이드와 iOS에서 스크린샷 기능을 제한하고 있다. 운영체제에 내장된 AI가 화면 정보를 분석하는 기능이 Signal의 개인정보 보호 능력을 약화시킨다고 주장했다.",
+      "reasonKo": "스마트폰에 기본으로 들어간 AI가 개인정보를 얼마나 들여다볼 수 있는지 생각해 볼 수 있어, 일상에서 AI를 쓰는 대학생에게 유용하다."
+    },
+    {
+      "source": "WIRED",
+      "titleEn": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "descriptionEn": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "categories": [
+        "Culture",
+        "Culture / Digital Culture"
+      ],
+      "imageUrl": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
+      "rank": 4,
+      "titleKo": "메타 AI 어시스턴트 Muse, 인스타그램 맞팔 정리에 쓰이다",
+      "summaryKo": "메타의 AI 어시스턴트는 나를 맞팔로우하지 않는 인스타그램 사용자를 추적해 언팔로우할 수 있다. 일부 사람들은 이 기능을 적극적으로 활용하고 있다.",
+      "reasonKo": "SNS 속 AI 기능이 일상의 관계와 소통에 어떤 변화를 주는지 보여줘, 학생들이 자주 쓰는 서비스와 직접 연결된다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Apple is hiring engineers to build its own AI agent",
+      "descriptionEn": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI…",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "publishedAt": "2026-11-19T22:31:41.000Z",
+      "categories": [
+        "AI",
+        "Apple",
+        "Apple Rumors",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg",
+      "rank": 5,
+      "titleKo": "애플, 자체 AI 에이전트 개발을 위해 엔지니어 채용",
+      "summaryKo": "애플이 웹 탐색, 여러 앱 간 작업, 코드 작성, 서비스 호출 등 다양한 일을 수행하는 자체 AI 에이전트를 개발 중이라는 소식이다. 삭제된 채용 공고에 따르면 애플은 이 에이전트 개발을 이끌 엔지니어를 찾고 있었다.",
+      "reasonKo": "AI 에이전트를 만드는 직무 수요가 생기고 있다는 점에서, 컴퓨터공학 등 진로를 고민하는 학생에게 참고가 된다."
+    }
+  ]
+}

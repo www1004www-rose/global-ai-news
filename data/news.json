@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-21T02:57:07.284Z",
+  "generatedAt": "2026-11-22T01:50:14.265Z",
   "mode": "ai",
   "model": "claude-haiku-5-5",
   "items": [
+    {
+      "source": "The Verge",
+      "titleEn": "The UN fails to agree on rules regulating ‘killer robots’",
+      "descriptionEn": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the…",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "publishedAt": "2026-11-21T20:03:37.000Z",
+      "categories": [
+        "AI",
+        "News",
+        "Policy",
+        "Politics",
+        "Robot",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg",
+      "rank": 1,
+      "titleKo": "UN, '킬러 로봇' 규제 합의에 실패하다",
+      "summaryKo": "제네바에서 열린 UN 외교관 회의의 주요 의제는 자율무기, 일명 '킬러 로봇'에 대한 규칙 마련이었다. 일주일간의 협상 끝에 대표단은 '옵션 논의를 시작하기로' 하는 데 그쳤다.",
+      "reasonKo": "AI 무기와 윤리 문제를 국제 정치 차원에서 어떻게 규제할지 살펴볼 수 있어, AI 윤리에 관심 있는 대학생에게 의미가 있다."
+    },
     {
       "source": "The Verge",
       "titleEn": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -16,10 +36,10 @@
         "Science"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg",
-      "rank": 1,
-      "titleKo": "Anthropic 수학자, Claude 도움으로 리만 가설 증명했다고 주장",
-      "summaryKo": "Anthropic의 수학자 Levent Alpöge는 Claude의 도움을 받아 수십 년간 세계 최고 수학자들도 풀지 못한 리만 가설을 증명했다고 주장했다. 소개문에 따르면 아직 검증되지 않은 주장이며, 검증된다면 수학 분야에서 AI가 이룬 또 하나의 큰 성과가 된다.",
-      "reasonKo": "AI가 연구와 수학 같은 고난도 학문에 어디까지 쓰일 수 있는지 보여주는 사례라, 이공계 대학생이 AI 활용의 가능성과 한계를 함께 생각해 볼 수 있다."
+      "rank": 2,
+      "titleKo": "Anthropic 수학자, Claude 도움으로 리만 가설 증명 주장",
+      "summaryKo": "Anthropic의 수학자 레벤트 알퍼게는 Claude의 도움으로 수십 년간 세계 최고의 수학자들도 풀지 못한 리만 가설을 증명했다고 주장했다. 검증된다면 수학 분야에서 AI가 거둔 또 하나의 성과가 된다.",
+      "reasonKo": "AI가 연구와 학습 방식을 어떻게 바꿀 수 있는지 보여주는 사례로, 수학이나 이공계를 전공하는 학생에게 흥미로운 기사다."
     },
     {
       "source": "The Verge",
@@ -38,44 +58,10 @@
         "Tech"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png",
-      "rank": 2,
-      "titleKo": "Signal, Gemini·Siri 같은 AI가 화면을 읽지 못하도록 차단",
-      "summaryKo": "Signal은 AI 에이전트가 사용자의 메시지와 데이터를 읽는 것을 막기 위해 Android와 iOS에서 스크린샷 기능을 제한하고 있다. 소개문에 따르면 운영체제에 내장된 AI가 화면 정보를 분석하는 기능이 Signal이 개인정보를 스스로 보장하는 능력을 해친다고 보고 있다.",
-      "reasonKo": "대학생이 매일 쓰는 메신저와 스마트폰 AI 기능이 개인정보와 충돌할 수 있다는 점을 보여줘, 디지털 개인정보 보호를 생각하게 한다."
-    },
-    {
-      "source": "The Verge",
-      "titleEn": "Gemini on Mac can now use your computer",
-      "descriptionEn": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will…",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "publishedAt": "2026-11-19T18:21:13.000Z",
-      "categories": [
-        "AI",
-        "Google",
-        "News",
-        "Tech"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg",
       "rank": 3,
-      "titleKo": "Mac용 Gemini, 이제 컴퓨터를 직접 조작할 수 있어",
-      "summaryKo": "Google의 macOS용 Gemini 앱에 컴퓨터 사용 기능이 추가되어, 로컬 파일, 데스크톱 앱, 웹에 걸친 여러 단계 작업을 도울 수 있다고 한다. 회사는 워크플로 단축, 양식 작성, 프레젠테이션 제작, 판매 물품 등록 등에 유용할 것이라고 설명했다.",
-      "reasonKo": "과제 발표 자료 만들기나 서류 작성처럼 학생들의 실제 작업에 AI가 어떻게 들어오는지 보여주는 기사다."
-    },
-    {
-      "source": "WIRED",
-      "titleEn": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-      "descriptionEn": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "publishedAt": "2026-11-20T07:00:00.000Z",
-      "categories": [
-        "Business",
-        "Business / Artificial Intelligence"
-      ],
-      "imageUrl": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
-      "rank": 4,
-      "titleKo": "고등학교를 중퇴한 16세 소년, AI 미사일 스타트업 창업",
-      "summaryKo": "Henrijs Dandzbergs는 고등학교를 그만두고 스타트업 액셀러레이터 Y Combinator에 합류했다. 그는 새로운 방식의 미사일로 미국과 동맹국 군대를 위해 '살상 비용(cost per kill)'을 최대한 효율적으로 낮추는 것을 목표로 하고 있다.",
-      "reasonKo": "어린 창업가의 진로 선택과 AI의 군사적 활용이라는 윤리적 쟁점을 함께 보여줘, 진로와 기술 윤리를 고민하는 대학생에게 의미가 있다."
+      "titleKo": "Signal, 화면을 읽는 Gemini·Siri AI 차단에 나서다",
+      "summaryKo": "Signal은 AI 에이전트가 사용자의 메시지와 데이터를 읽지 못하도록 안드로이드와 iOS에서 스크린샷 기능을 제한하고 있다. 운영체제에 내장된 AI가 화면 정보를 분석하는 기능이 Signal의 개인정보 보호 능력을 약화시킨다고 주장했다.",
+      "reasonKo": "스마트폰에 기본으로 들어간 AI가 개인정보를 얼마나 들여다볼 수 있는지 생각해 볼 수 있어, 일상에서 AI를 쓰는 대학생에게 유용하다."
     },
     {
       "source": "WIRED",
@@ -88,10 +74,29 @@
         "Culture / Digital Culture"
       ],
       "imageUrl": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
+      "rank": 4,
+      "titleKo": "메타 AI 어시스턴트 Muse, 인스타그램 맞팔 정리에 쓰이다",
+      "summaryKo": "메타의 AI 어시스턴트는 나를 맞팔로우하지 않는 인스타그램 사용자를 추적해 언팔로우할 수 있다. 일부 사람들은 이 기능을 적극적으로 활용하고 있다.",
+      "reasonKo": "SNS 속 AI 기능이 일상의 관계와 소통에 어떤 변화를 주는지 보여줘, 학생들이 자주 쓰는 서비스와 직접 연결된다."
+    },
+    {
+      "source": "The Verge",
+      "titleEn": "Apple is hiring engineers to build its own AI agent",
+      "descriptionEn": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI…",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "publishedAt": "2026-11-19T22:31:41.000Z",
+      "categories": [
+        "AI",
+        "Apple",
+        "Apple Rumors",
+        "News",
+        "Tech"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg",
       "rank": 5,
-      "titleKo": "Meta의 AI 어시스턴트 Muse, 인스타그램에서 장난스러운 '맞팔 확인' 확산",
-      "summaryKo": "Meta의 AI 어시스턴트는 인스타그램에서 나를 맞팔하지 않는 사용자를 추적해 언팔로우할 수 있다. 일부 사람들은 이 기능을 적극적으로 활용하며 소소한 말다툼 같은 분위기를 만들고 있다.",
-      "reasonKo": "SNS를 일상적으로 쓰는 대학생들이 AI 비서가 개인 관계와 온라인 문화에 어떻게 개입하는지 가볍게 살펴볼 수 있는 기사다."
+      "titleKo": "애플, 자체 AI 에이전트 개발을 위해 엔지니어 채용",
+      "summaryKo": "애플이 웹 탐색, 여러 앱 간 작업, 코드 작성, 서비스 호출 등 다양한 일을 수행하는 자체 AI 에이전트를 개발 중이라는 소식이다. 삭제된 채용 공고에 따르면 애플은 이 에이전트 개발을 이끌 엔지니어를 찾고 있었다.",
+      "reasonKo": "AI 에이전트를 만드는 직무 수요가 생기고 있다는 점에서, 컴퓨터공학 등 진로를 고민하는 학생에게 참고가 된다."
     }
   ]
 }
